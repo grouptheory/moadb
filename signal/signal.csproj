@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{16CFAA07-D782-4996-989E-AA014886EF81}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>signal</RootNamespace>
+    <AssemblyName>signal</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <StartupObject>signal.Main_signal</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="C5">
+      <HintPath>..\ExternalComponents\C5\C5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Trajectory.cs" />
+    <Compile Include="TrajectoryBundle.cs" />
+    <Compile Include="Main_signal.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_Price.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_AgentBids.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_Spread.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_TotalOrders.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_TotalTrades.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_AgentAsks.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_AgentOrders.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_AgentNamedMetric.cs" />
+    <Compile Include="TrajectoryBundleCollapsers\TrajectoryBundleCollapser_AverageSeparation.cs" />
+    <Compile Include="TrajectoryBundleCollapsers\TrajectoryBundleCollapser_Mean.cs" />
+    <Compile Include="TrajectoryBundleCollapsers\TrajectoryBundleCollapser_Std.cs" />
+    <Compile Include="TrajectoryTransformers\TrajectoryTransformer_Smoother.cs" />
+    <Compile Include="TrajectoryDistanceMeasures\TrajectoryDistanceMeasure_Separation.cs" />
+    <Compile Include="TrajectoryTransformers\TrajectoryTransformer_Hurst.cs" />
+    <Compile Include="TrajectoryTransformers\TrajectoryTransformer_UniformizingSampler.cs" />
+    <Compile Include="AbstractAgentTrajectoryFactory.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_Debug.cs" />
+    <Compile Include="TrajectoryDistanceMeasures\TrajectoryDistanceMeasure_DTW.cs" />
+    <Compile Include="TrajectoryBundleCollapsers\TrajectoryBundleCollapser_CentralDTW.cs" />
+    <Compile Include="TrajectoryBundleCollapsers\TrajectoryBundleCollapser_MaxDTWDeviation.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_AlphaSlice.cs" />
+    <Compile Include="AbstractPassiveTrajectoryFactory.cs" />
+    <Compile Include="AbstractActiveTrajectoryFactory.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_NumAsks.cs" />
+    <Compile Include="TrajectoryFactories\TrajectoryFactory_NumBids.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\core\core.csproj">
+      <Project>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</Project>
+      <Name>core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\logger\logger.csproj">
+      <Project>{7141709D-2F2F-4A00-ACDE-3310AAB80E40}</Project>
+      <Name>logger</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TrajectoryFactories\" />
+    <Folder Include="TrajectoryBundleCollapsers\" />
+    <Folder Include="TrajectoryTransformers\" />
+    <Folder Include="TrajectoryDistanceMeasures\" />
+  </ItemGroup>
+</Project>

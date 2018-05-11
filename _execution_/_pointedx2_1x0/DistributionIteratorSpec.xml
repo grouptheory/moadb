@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DistributionSpaceIteratorSpecification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Specifications>
+    <DistributionParameterIteratorSpecification>
+      <ID>0</ID>
+      <Name>riskiness-Value</Name>
+      <Min>0.60</Min>
+      <Max>1.40</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>1</ID>
+      <Name>aggressiveness-Value</Name>
+      <Min>0.10</Min>
+      <Max>0.90</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>2</ID>
+      <Name>trendiness-Value</Name>
+      <Min>-0.3</Min>
+      <Max>0.5</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>3</ID>
+      <Name>patience-Value</Name>
+      <Min>0.05</Min>
+      <Max>0.35</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>4</ID>
+      <Name>optimism-Value</Name>
+      <Min>-0.005</Min>
+      <Max>0.007</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>5</ID>
+      <Name>clock-Value</Name>
+      <Min>3.0</Min>
+      <Max>7.0</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+  </Specifications>
+</DistributionSpaceIteratorSpecification>

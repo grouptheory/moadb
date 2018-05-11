@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FE9BBF32-F28D-4167-A3E0-0C0D626C8E37}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>orderbook</RootNamespace>
+    <AssemblyName>orderbook</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <StartupObject>orderbook.Main_orderbook</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>..\logger</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>..\logger</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="C5">
+      <HintPath>..\ExternalComponents\C5\C5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Orderbook.cs" />
+    <Compile Include="Matcher.cs" />
+    <Compile Include="Order.cs" />
+    <Compile Include="Main_orderbook.cs" />
+    <Compile Include="OrderbookLogger.cs" />
+    <Compile Include="OrderbookEvents\OrderbookEvent_CancelOrder.cs" />
+    <Compile Include="OrderbookEvents\OrderbookEvent_AddOrder.cs" />
+    <Compile Include="OrderbookEvents\OrderbookEvent_FillOrder.cs" />
+    <Compile Include="OrderbookPriceEngine.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\core\core.csproj">
+      <Project>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</Project>
+      <Name>core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\des\des.csproj">
+      <Project>{F110DA21-A9A1-448A-9CBF-9D1462ACE4B6}</Project>
+      <Name>des</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\logger\logger.csproj">
+      <Project>{7141709D-2F2F-4A00-ACDE-3310AAB80E40}</Project>
+      <Name>logger</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="OrderbookEvents\" />
+  </ItemGroup>
+</Project>

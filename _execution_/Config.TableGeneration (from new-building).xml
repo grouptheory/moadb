@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableGenerationConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AgentFactoryClassName>Agent0xC_Factory</AgentFactoryClassName>
+  <NumAgents>100</NumAgents>
+  <DurationHours>1.0</DurationHours>
+  <Populations>1</Populations>
+  <Trials>1</Trials>
+  <Lambda>0.5</Lambda>
+  <Gamma>0.9</Gamma>
+  <InitialBurninHours>0.0</InitialBurninHours>
+  <NumCombs>4</NumCombs>
+  <InitialOrderbook>orderbooks/orderbook4.csv</InitialOrderbook>
+</TableGenerationConfig>

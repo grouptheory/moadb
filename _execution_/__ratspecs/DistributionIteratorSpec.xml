@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DistributionSpaceIteratorSpecification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Specifications>
+    <DistributionParameterIteratorSpecification>
+      <ID>0</ID>
+      <Name>Clock-Value</Name>
+      <Min>2</Min>
+      <Max>100</Max>
+      <Step>1</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>1</ID>
+      <Name>GainCutoff-Value</Name>
+      <Min>0.01</Min>
+      <Max>0.05</Max>
+      <Step>1</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>2</ID>
+      <Name>LossCutoff-Value</Name>
+      <Min>0.01</Min>
+      <Max>0.05</Max>
+      <Step>1</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>3</ID>
+      <Name>AgentType-Value</Name>
+      <Min>0.45</Min>
+      <Max>0.55</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>4</ID>
+      <Name>w_0</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>5</ID>
+      <Name>Clock-Value</Name>
+      <Min>2</Min>
+      <Max>100</Max>
+      <Step>1</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>6</ID>
+      <Name>GainCutoff-Value</Name>
+      <Min>0.01</Min>
+      <Max>0.05</Max>
+      <Step>1</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>7</ID>
+      <Name>LossCutoff-Value</Name>
+      <Min>0.01</Min>
+      <Max>0.05</Max>
+      <Step>1</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>8</ID>
+      <Name>AgentType-Value</Name>
+      <Min>0.45</Min>
+      <Max>0.55</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>9</ID>
+      <Name>w_1</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+  </Specifications>
+</DistributionSpaceIteratorSpecification>

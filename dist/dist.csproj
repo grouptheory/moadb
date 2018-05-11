@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CD3AEB8A-3D28-4D6E-BADA-3F7045BCF86C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>dist</RootNamespace>
+    <AssemblyName>dist</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <StartupObject>dist.Main_dist</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="C5">
+      <HintPath>..\ExternalComponents\C5\C5.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Distribution_Gaussian.cs" />
+    <Compile Include="Main_dist.cs" />
+    <Compile Include="Distribution_Sequential.cs" />
+    <Compile Include="Mixture.cs" />
+    <Compile Include="AbstractDistribution.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Distribution_Interval.cs" />
+    <Compile Include="DistributionSpace.cs" />
+    <Compile Include="AbstractCompositeDistribution.cs" />
+    <Compile Include="AbstractAtomicDistribution.cs" />
+    <Compile Include="DistributionSpaceIterator.cs" />
+    <Compile Include="DistributionSpaceIteratorSpecification.cs" />
+    <Compile Include="Distribution_Pointed.cs" />
+    <Compile Include="Distribution_Pointed_Immutable.cs" />
+    <Compile Include="Mixture_Immutable.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\core\core.csproj">
+      <Project>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</Project>
+      <Name>core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blau\blau.csproj">
+      <Project>{4449B3AF-3054-4D87-8850-9CB4D5FC6F84}</Project>
+      <Name>blau</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\logger\logger.csproj">
+      <Project>{7141709D-2F2F-4A00-ACDE-3310AAB80E40}</Project>
+      <Name>logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\serialization\serialization.csproj">
+      <Project>{BD984174-DCFC-405C-8B6D-76A3CEB515C6}</Project>
+      <Name>serialization</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

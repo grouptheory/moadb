@@ -1,0 +1,430 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Product id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-2" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-3" />
+      <AbstractDistribution_x002B__params>7</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4904">
+      <_items href="#ref-4" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-3" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-5">BlauSpace[Dim:5]: aggressiveness(0,1), clock(2,105), optimism(-1,1), patience(0.01,1), riskiness(0,2)</_hashedName>
+      <_dimension>5</_dimension>
+      <_indexedAxes href="#ref-6" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-4" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4904.24660%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a4:IDistribution[4]">
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+    </SOAP-ENC:Array>
+    <a5:Hashtable id="ref-6" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>5</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-9" />
+      <Values href="#ref-10" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a1:Product id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-11" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-12" />
+      <AbstractDistribution_x002B__params>5</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a1:Distribution_Interval id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_min>0</_min>
+      <_max>2</_max>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-13" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-14" />
+      <AbstractDistribution_x002B__space href="#ref-15" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Distribution_Interval>
+    <SOAP-ENC:Array id="ref-9" SOAP-ENC:arrayType="xsd:anyType[5]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+      <item xsi:type="xsd:int">2</item>
+      <item xsi:type="xsd:int">3</item>
+      <item xsi:type="xsd:int">4</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-10" SOAP-ENC:arrayType="xsd:anyType[5]">
+      <item href="#ref-16" />
+      <item href="#ref-17" />
+      <item href="#ref-18" />
+      <item href="#ref-19" />
+      <item href="#ref-20" />
+    </SOAP-ENC:Array>
+    <a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-11" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4904">
+      <_items href="#ref-21" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-12" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-22">BlauSpace[Dim:4]: aggressiveness(0,1), clock(2,105), optimism(-1,1), patience(0.01,1)</_hashedName>
+      <_dimension>4</_dimension>
+      <_indexedAxes href="#ref-23" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-13" SOAP-ENC:arrayType="xsd:double[2]">
+      <item>0</item>
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-14" SOAP-ENC:arrayType="xsd:double[2]">
+      <item>2</item>
+      <item>2</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-15" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-24">BlauSpace[Dim:1]: riskiness(0,2)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-25" />
+    </a3:BlauSpace>
+    <a3:BlauSpaceAxis id="ref-16" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-26">aggressiveness</_name>
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-17" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-27">clock</_name>
+      <_minimumValue>2</_minimumValue>
+      <_maximumValue>105</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-18" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-28">optimism</_name>
+      <_minimumValue>-1</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-19" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-29">patience</_name>
+      <_minimumValue>0.01</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-20" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-30">riskiness</_name>
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>2</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <SOAP-ENC:Array id="ref-21" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4904.24660%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a4:IDistribution[4]">
+      <item href="#ref-31" />
+      <item href="#ref-32" />
+    </SOAP-ENC:Array>
+    <a5:Hashtable id="ref-23" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>8</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-33" />
+      <Values href="#ref-34" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a5:Hashtable id="ref-25" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>2</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-35" />
+      <Values href="#ref-36" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a1:Product id="ref-31" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-37" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-38" />
+      <AbstractDistribution_x002B__params>4</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a1:Distribution_Pointed id="ref-32" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.20000000000000001</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-39" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-40" />
+      <AbstractDistribution_x002B__space href="#ref-41" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <SOAP-ENC:Array id="ref-33" SOAP-ENC:arrayType="xsd:anyType[4]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+      <item xsi:type="xsd:int">2</item>
+      <item xsi:type="xsd:int">3</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-34" SOAP-ENC:arrayType="xsd:anyType[4]">
+      <item href="#ref-42" />
+      <item href="#ref-43" />
+      <item href="#ref-44" />
+      <item href="#ref-45" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-35" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-36" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-46" />
+    </SOAP-ENC:Array>
+    <a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-37" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4904">
+      <_items href="#ref-47" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-38" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-48">BlauSpace[Dim:3]: aggressiveness(0,1), clock(2,105), optimism(-1,1)</_hashedName>
+      <_dimension>3</_dimension>
+      <_indexedAxes href="#ref-49" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-39" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0.01</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-40" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>1</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-41" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-50">BlauSpace[Dim:1]: patience(0.01,1)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-51" />
+    </a3:BlauSpace>
+    <a3:BlauSpaceAxis id="ref-42" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-26" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-43" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-27" />
+      <_minimumValue>2</_minimumValue>
+      <_maximumValue>105</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-44" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-28" />
+      <_minimumValue>-1</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-45" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-29" />
+      <_minimumValue>0.01</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-46" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-30" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>2</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <SOAP-ENC:Array id="ref-47" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4904.24660%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a4:IDistribution[4]">
+      <item href="#ref-52" />
+      <item href="#ref-53" />
+    </SOAP-ENC:Array>
+    <a5:Hashtable id="ref-49" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>9</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-54" />
+      <Values href="#ref-55" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a5:Hashtable id="ref-51" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>3</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-56" />
+      <Values href="#ref-57" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a1:Product id="ref-52" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-58" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-59" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a1:Distribution_Interval id="ref-53" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_min>-1</_min>
+      <_max>1</_max>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-60" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-61" />
+      <AbstractDistribution_x002B__space href="#ref-62" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Distribution_Interval>
+    <SOAP-ENC:Array id="ref-54" SOAP-ENC:arrayType="xsd:anyType[3]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+      <item xsi:type="xsd:int">2</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-55" SOAP-ENC:arrayType="xsd:anyType[3]">
+      <item href="#ref-63" />
+      <item href="#ref-64" />
+      <item href="#ref-65" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-56" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-57" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-66" />
+    </SOAP-ENC:Array>
+    <a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-58" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4904">
+      <_items href="#ref-67" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0032_4660_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-59" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-68">BlauSpace[Dim:2]: aggressiveness(0,1), clock(2,105)</_hashedName>
+      <_dimension>2</_dimension>
+      <_indexedAxes href="#ref-69" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-60" SOAP-ENC:arrayType="xsd:double[2]">
+      <item>-1</item>
+      <item>-1</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-61" SOAP-ENC:arrayType="xsd:double[2]">
+      <item>1</item>
+      <item>1</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-62" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-70">BlauSpace[Dim:1]: optimism(-1,1)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-71" />
+    </a3:BlauSpace>
+    <a3:BlauSpaceAxis id="ref-63" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-26" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-64" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-27" />
+      <_minimumValue>2</_minimumValue>
+      <_maximumValue>105</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-65" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-28" />
+      <_minimumValue>-1</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-66" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-29" />
+      <_minimumValue>0.01</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <SOAP-ENC:Array id="ref-67" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4904.24660%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a4:IDistribution[4]">
+      <item href="#ref-72" />
+      <item href="#ref-73" />
+    </SOAP-ENC:Array>
+    <a5:Hashtable id="ref-69" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>8</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-74" />
+      <Values href="#ref-75" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a5:Hashtable id="ref-71" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>4</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-76" />
+      <Values href="#ref-77" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a1:Distribution_Pointed id="ref-72" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.5</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-78" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-79" />
+      <AbstractDistribution_x002B__space href="#ref-80" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-73" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4904.36035%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>5</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-81" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-82" />
+      <AbstractDistribution_x002B__space href="#ref-83" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <SOAP-ENC:Array id="ref-74" SOAP-ENC:arrayType="xsd:anyType[2]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-75" SOAP-ENC:arrayType="xsd:anyType[2]">
+      <item href="#ref-84" />
+      <item href="#ref-85" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-76" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-77" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-86" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-78" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-79" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>1</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-80" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-87">BlauSpace[Dim:1]: aggressiveness(0,1)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-88" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-81" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>2</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-82" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>105</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-83" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-89">BlauSpace[Dim:1]: clock(2,105)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-90" />
+    </a3:BlauSpace>
+    <a3:BlauSpaceAxis id="ref-84" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-26" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-85" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-27" />
+      <_minimumValue>2</_minimumValue>
+      <_maximumValue>105</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-86" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-28" />
+      <_minimumValue>-1</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a5:Hashtable id="ref-88" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>5</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-91" />
+      <Values href="#ref-92" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a5:Hashtable id="ref-90" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>5</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-93" />
+      <Values href="#ref-94" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <SOAP-ENC:Array id="ref-91" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-92" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-95" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-93" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-94" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-96" />
+    </SOAP-ENC:Array>
+    <a3:BlauSpaceAxis id="ref-95" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-26" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>1</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-96" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4904.24662%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-27" />
+      <_minimumValue>2</_minimumValue>
+      <_maximumValue>105</_maximumValue>
+    </a3:BlauSpaceAxis>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tests>
+    <TestRecord Name="testing">
+      <Tests>
+        <TestRecord Name="dist_tests">
+          <Tests>
+            <TestRecord Name="DistributionSpaceIterator_SingleIntervalTest">
+              <Results>
+                <UnitTestResult>
+                  <TestDate>2013-06-05T20:19:28</TestDate>
+                  <Passed>1</Passed>
+                  <Errors>0</Errors>
+                  <Failures>0</Failures>
+                  <Inconclusive>0</Inconclusive>
+                  <NotRunnable>0</NotRunnable>
+                  <Skipped>0</Skipped>
+                  <Ignored>0</Ignored>
+                  <Time />
+                  <Message>Test successful
+
+Execution time: 0.05ms</Message>
+                  <ConsoleOutput>DistributionSpaceIterator_SingleIntervalTest
+</ConsoleOutput>
+                  <ConsoleError>20:19:29,016 DEBUG [TestRunnerThread]  [(null)]- (Debug//blau.BlauSpace):  BlauSpaceRegistry is adding BlauSpace[Dim:1]: x(0,100)
+20:19:29,018 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  original distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=20, max=80)
+
+20:19:29,019 DEBUG [TestRunnerThread]  [(null)]- (Debug//blau.BlauSpace):  BlauSpaceRegistry is adding BlauSpace[Dim:2]: x-Min(0,100), x-Max(0,100)
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=0)
+
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=33.3333333333333)
+
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=66.6666666666667)
+
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=100)
+
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=33.3333333333333, max=33.3333333333333)
+
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=33.3333333333333, max=66.6666666666667)
+
+20:19:29,024 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=33.3333333333333, max=100)
+
+20:19:29,026 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=66.6666666666667, max=66.6666666666667)
+
+20:19:29,027 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=66.6666666666667, max=100)
+
+20:19:29,027 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=100, max=100)
+
+20:19:29,043 INFO  [TestRunnerThread]  [(null)]- (Info//testing.dist_tests):  N=3  valid distributions: 10 / total: 16
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=0)
+
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=25)
+
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=50)
+
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=75)
+
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=100)
+
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=25, max=25)
+
+20:19:29,043 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=25, max=50)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=25, max=75)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=25, max=100)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=50, max=50)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=50, max=75)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=50, max=100)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=75, max=75)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=75, max=100)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=100, max=100)
+
+20:19:29,044 INFO  [TestRunnerThread]  [(null)]- (Info//testing.dist_tests):  N=4  valid distributions: 15 / total: 25
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=0)
+
+20:19:29,044 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=20)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=40)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=60)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=80)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=0, max=100)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=20, max=20)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=20, max=40)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=20, max=60)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=20, max=80)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=20, max=100)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=40, max=40)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=40, max=60)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=40, max=80)
+
+20:19:29,045 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=40, max=100)
+
+20:19:29,046 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=60, max=60)
+
+20:19:29,046 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=60, max=80)
+
+20:19:29,046 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=60, max=100)
+
+20:19:29,046 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=80, max=80)
+
+20:19:29,046 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=80, max=100)
+
+20:19:29,046 DEBUG [TestRunnerThread]  [(null)]- (Debug//testing.dist_tests):  iterator distribution: Interval[BlauSpace[Dim:1]: x(0,100)]2(min=100, max=100)
+
+20:19:29,046 INFO  [TestRunnerThread]  [(null)]- (Info//testing.dist_tests):  N=5  valid distributions: 21 / total: 36
+</ConsoleError>
+                </UnitTestResult>
+              </Results>
+            </TestRecord>
+          </Tests>
+        </TestRecord>
+      </Tests>
+    </TestRecord>
+  </Tests>
+</TestRecord>

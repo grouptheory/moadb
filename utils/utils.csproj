@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD2658B2-1104-4D5D-8602-79D104403024}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>utils</RootNamespace>
+    <AssemblyName>utils</AssemblyName>
+    <StartupObject>utils.Main_utils</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>True</Externalconsole>
+    <Commandlineparameters>--product -file1=p2.xml -file2=trendiness.xml -outfile=p3.xml</Commandlineparameters>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>True</Externalconsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="MakeGaussian.cs" />
+    <Compile Include="MakeUniform.cs" />
+    <Compile Include="MakeProduct.cs" />
+    <Compile Include="MakeMixture.cs" />
+    <Compile Include="Main_utils.cs" />
+    <Compile Include="MakePrintDistribution.cs" />
+    <Compile Include="MakePointed.cs" />
+    <Compile Include="MakePointedImmutable.cs" />
+    <Compile Include="MakeMixtureImmutable.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\args\args.csproj">
+      <Project>{1D121486-D96A-46F6-8CAF-3F3E79783DD7}</Project>
+      <Name>args</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\core\core.csproj">
+      <Project>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</Project>
+      <Name>core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blau\blau.csproj">
+      <Project>{4449B3AF-3054-4D87-8850-9CB4D5FC6F84}</Project>
+      <Name>blau</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\dist\dist.csproj">
+      <Project>{CD3AEB8A-3D28-4D6E-BADA-3F7045BCF86C}</Project>
+      <Name>dist</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\logger\logger.csproj">
+      <Project>{7141709D-2F2F-4A00-ACDE-3310AAB80E40}</Project>
+      <Name>logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\config\config.csproj">
+      <Project>{77F225FF-56CB-4263-8872-CEB26730C00E}</Project>
+      <Name>config</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

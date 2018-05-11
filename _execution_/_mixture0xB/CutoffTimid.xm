@@ -1,0 +1,127 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Product id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-2" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-3" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a2:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-4" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-3" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-5">BlauSpace[Dim:2]: GainCutoff(0,10), LossCutoff(0,10)</_hashedName>
+      <_dimension>2</_dimension>
+      <_indexedAxes href="#ref-6" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-4" xmlns:a4="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a4:IDistribution[4]">
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+    </SOAP-ENC:Array>
+    <a5:Hashtable id="ref-6" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>2</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-9" />
+      <Values href="#ref-10" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a1:Distribution_Pointed id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>1.01</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-11" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-12" />
+      <AbstractDistribution_x002B__space href="#ref-13" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>1.01</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-14" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-15" />
+      <AbstractDistribution_x002B__space href="#ref-16" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <SOAP-ENC:Array id="ref-9" SOAP-ENC:arrayType="xsd:anyType[2]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-10" SOAP-ENC:arrayType="xsd:anyType[2]">
+      <item href="#ref-17" />
+      <item href="#ref-18" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-11" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-12" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-13" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-19">BlauSpace[Dim:1]: GainCutoff(0,10)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-20" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-14" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-15" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-16" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-21">BlauSpace[Dim:1]: LossCutoff(0,10)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-22" />
+    </a3:BlauSpace>
+    <a3:BlauSpaceAxis id="ref-17" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-23">GainCutoff</_name>
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-18" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-24">LossCutoff</_name>
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a5:Hashtable id="ref-20" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>2</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-25" />
+      <Values href="#ref-26" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <a5:Hashtable id="ref-22" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>2</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-27" />
+      <Values href="#ref-28" />
+      <equalityComparer xsi:null="1" />
+    </a5:Hashtable>
+    <SOAP-ENC:Array id="ref-25" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-26" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-29" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-27" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-28" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-30" />
+    </SOAP-ENC:Array>
+    <a3:BlauSpaceAxis id="ref-29" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-23" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-30" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-24" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

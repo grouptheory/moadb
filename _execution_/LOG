@@ -1,0 +1,1819 @@
+(Info//experiment.SingleDistributionExperiment):  population 0 => /Users/human/Documents/dev/moadb/moadb/_execution_/experiment.bar.20130612-091433/populations/pop.0.Validation
+ (Debug//models.Agent1x0):  XXX I am 132 ASK time is 1.99768901288693 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 187 BID time is 1.99779577981023 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 169 BID time is 1.99812486097207 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 158 ASK time is 1.99816179555142 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 179 BID time is 1.99828188178816 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 143 ASK time is 1.99834566300232 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 154 ASK time is 1.99841990787848 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 122 ASK time is 1.99853700359735 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 129 BID time is 1.99858428695103 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 147 BID time is 1.99867238279388 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 177 BID time is 1.9986744521038 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 191 BID time is 1.99876415751788 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 104 ASK time is 1.99893463665571 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 134 ASK time is 1.99900158030187 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 110 BID time is 1.99900424138333 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 198 ASK time is 1.99904666388092 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 189 BID time is 1.99912294921076 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 133 ASK time is 1.99916062979121 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 163 BID time is 1.99918831862867 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 192 ASK time is 1.9992961990854 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 180 BID time is 1.99931443342069 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 152 BID time is 1.99931563674911 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 124 ASK time is 1.9993670429138 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 131 ASK time is 1.99936802281363 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 150 BID time is 1.99942782651813 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 172 ASK time is 1.999428671357 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 167 BID time is 1.999525673361 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 108 BID time is 1.99955060590759 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 115 ASK time is 1.99955403884734 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 116 BID time is 1.99955709492943 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 193 ASK time is 1.99958136873844 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 121 BID time is 1.9995822546259 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 164 ASK time is 1.99960006122258 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 160 ASK time is 1.99962371501712 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 141 ASK time is 1.99962521045852 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 127 ASK time is 1.99964128749072 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 107 BID time is 1.99964541446792 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 105 BID time is 1.99967501233108 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 118 ASK time is 1.99968420573909 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 106 ASK time is 1.99968536377641 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 173 ASK time is 1.99972984929773 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 182 BID time is 1.99973334195313 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 190 ASK time is 1.99973876448747 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 135 BID time is 1.99975120388789 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 165 ASK time is 1.99977492368309 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 157 BID time is 1.99977538433776 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 162 BID time is 1.99980542315615 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 196 ASK time is 1.99984232499254 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 138 BID time is 1.9999094107351 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 185 ASK time is 1.99994551522886 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 111 ASK time is 1.99994607762289 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 125 BID time is 2.00001952095522 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 195 ASK time is 2.00008147141263 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 120 ASK time is 2.00008761875658 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 159 ASK time is 2.00009869268358 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 2.00011453526875 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 145 BID time is 2.00011768790942 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 170 BID time is 2.00012322479557 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 102 BID time is 2.00012845629871 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 194 ASK time is 2.0001480658058 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 184 ASK time is 2.00015541360607 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 2.00015959616214 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 123 ASK time is 2.00018537143449 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 142 BID time is 2.00025658742855 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 171 ASK time is 2.00028671585936 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 119 ASK time is 2.00029823341939 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 113 BID time is 2.00030629684029 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 197 ASK time is 2.00033727107333 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 103 ASK time is 2.00037011043932 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 117 ASK time is 2.0003896617959 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 144 BID time is 2.0004018586519 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 2.00040672444574 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 136 ASK time is 2.00042151374867 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 178 BID time is 2.00045668498327 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 186 ASK time is 2.00046723264594 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 140 BID time is 2.00049051547633 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 200 ASK time is 2.0005352237219 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 146 BID time is 2.00059750904031 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 155 BID time is 2.0006964215918 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 156 ASK time is 2.00070739513992 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 151 ASK time is 2.00079480925248 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 181 BID time is 2.00080465675771 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 114 BID time is 2.00083872692301 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 166 BID time is 2.0008699563244 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 128 BID time is 2.00089896890973 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 2.000901706688 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 126 BID time is 2.00102778142826 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 101 BID time is 2.00115206150334 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 109 ASK time is 2.00115328131184 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 188 BID time is 2.00124218479227 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 183 BID time is 2.00141218535841 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 176 BID time is 2.00146631780654 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 175 BID time is 2.00148335117596 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 137 BID time is 2.0015360028787 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 112 ASK time is 2.00154753316682 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 199 BID time is 2.00169584342133 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 153 ASK time is 2.00169676704229 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 130 ASK time is 2.00169969245874 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 161 BID time is 2.00185679608853 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 139 BID time is 2.00201017027862 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 196 I am NOT CANCELLING time is 3.99700208170198
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 3.9983445123815
+ (Debug//models.Agent1x0):  XXX I am 157 I am NOT CANCELLING time is 3.9983616230909
+ (Debug//models.Agent1x0):  XXX I am 145 I am NOT CANCELLING time is 3.99866741729236
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 3.99884361812961
+ (Debug//models.Agent1x0):  XXX I am 125 I am NOT CANCELLING time is 3.99926750810464
+ (Debug//models.Agent1x0):  XXX I am 111 I am NOT CANCELLING time is 3.99930078971063
+ (Debug//models.Agent1x0):  XXX I am 171 I am NOT CANCELLING time is 3.99941267356509
+ (Debug//models.Agent1x0):  XXX I am 200 I am NOT CANCELLING time is 3.99941283578546
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 3.99948301502751
+ (Debug//models.Agent1x0):  XXX I am 138 I am NOT CANCELLING time is 3.99955451418387
+ (Debug//models.Agent1x0):  XXX I am 136 I am CANCELLING time is 3.99957573205744
+ (Debug//models.Agent1x0):  XXX I am 136 ASK time is 3.99957573205744 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 194 I am CANCELLING time is 3.99971974152825
+ (Debug//models.Agent1x0):  XXX I am 194 ASK time is 3.99971974152825 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 3.99975542455391
+ (Debug//models.Agent1x0):  XXX I am 155 I am NOT CANCELLING time is 3.99977477207554
+ (Debug//models.Agent1x0):  XXX I am 165 I am NOT CANCELLING time is 3.99984781597889
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 3.99992490742026
+ (Debug//models.Agent1x0):  XXX I am 178 I am NOT CANCELLING time is 3.99995034226886
+ (Debug//models.Agent1x0):  XXX I am 119 I am NOT CANCELLING time is 4.00000398574149
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 4.00004133089143
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 4.0000775131023
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 4.0001614866638
+ (Debug//models.Agent1x0):  XXX I am 176 I am CANCELLING time is 4.00027650812651
+ (Debug//models.Agent1x0):  XXX I am 176 BID time is 4.00027650812651 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 170 I am NOT CANCELLING time is 4.00027686847094
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 4.00028721453363
+ (Debug//models.Agent1x0):  XXX I am 123 I am CANCELLING time is 4.00040607462389
+ (Debug//models.Agent1x0):  XXX I am 123 ASK time is 4.00040607462389 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 4.00058964013575
+ (Debug//models.Agent1x0):  XXX I am 151 I am CANCELLING time is 4.00059410716328
+ (Debug//models.Agent1x0):  XXX I am 151 ASK time is 4.00059410716328 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 4.00061816088914
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 4.00067129061244
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 4.00067129061244 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 113 I am NOT CANCELLING time is 4.00071381728798
+ (Debug//models.Agent1x0):  XXX I am 120 I am NOT CANCELLING time is 4.00073305738105
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 4.00115659652977
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 4.00136238886221
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 4.00158009236521
+ (Debug//models.Agent1x0):  XXX I am 102 I am NOT CANCELLING time is 4.00190843868286
+ (Debug//models.Agent1x0):  XXX I am 109 I am NOT CANCELLING time is 4.00204133225514
+ (Debug//models.Agent1x0):  XXX I am 195 I am NOT CANCELLING time is 4.0025130904045
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 4.00265312288937
+ (Debug//models.Agent1x0):  XXX I am 196 I am NOT CANCELLING time is 5.99662538899563
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 5.99690229480832
+ (Debug//models.Agent1x0):  XXX I am 171 I am CANCELLING time is 5.99774524021659
+ (Debug//models.Agent1x0):  XXX I am 171 ASK time is 5.99774524021659 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 111 I am NOT CANCELLING time is 5.99847384677669
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 5.99848869650045
+ (Debug//models.Agent1x0):  XXX I am 178 I am NOT CANCELLING time is 5.99854326067345
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 5.99919102929539
+ (Debug//models.Agent1x0):  XXX I am 170 I am NOT CANCELLING time is 5.99959487537516
+ (Debug//models.Agent1x0):  XXX I am 200 I am NOT CANCELLING time is 5.99963605998486
+ (Debug//models.Agent1x0):  XXX I am 165 I am NOT CANCELLING time is 5.99963730689312
+ (Debug//models.Agent1x0):  XXX I am 145 I am NOT CANCELLING time is 5.99965721209683
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 5.99966335856903
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 5.99971095719008
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 5.99983696257797
+ (Debug//models.Agent1x0):  XXX I am 155 I am NOT CANCELLING time is 6.00025655992389
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 6.00034644452334
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 6.00040835137695
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 6.00040835137695 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 6.0004323473235
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 6.00050707094945
+ (Debug//models.Agent1x0):  XXX I am 119 I am NOT CANCELLING time is 6.00054639082696
+ (Debug//models.Agent1x0):  XXX I am 113 I am CANCELLING time is 6.00069163645307
+ (Debug//models.Agent1x0):  XXX I am 113 BID time is 6.00069163645307 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 6.00073143960618
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 6.00092921427483
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 6.00103164443799
+ (Debug//models.Agent1x0):  XXX I am 197 I am CANCELLING time is 6.00139979462222
+ (Debug//models.Agent1x0):  XXX I am 197 ASK time is 6.00139979462222 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 176 I am NOT CANCELLING time is 6.00143290065499
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 6.00157413565618
+ (Debug//models.Agent1x0):  XXX I am 120 I am CANCELLING time is 6.0017408074578
+ (Debug//models.Agent1x0):  XXX I am 120 ASK time is 6.0017408074578 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 166 I am CANCELLING time is 6.00227198728862
+ (Debug//models.Agent1x0):  XXX I am 166 BID time is 6.00227198728862 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 109 I am NOT CANCELLING time is 6.00237392626069
+ (Debug//models.Agent1x0):  XXX I am 102 I am NOT CANCELLING time is 6.00243172882655
+ (Debug//models.Agent1x0):  XXX I am 195 I am NOT CANCELLING time is 6.00303048951765
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 6.00326868958248
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 7.99673296818533
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 7.99673296818533 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 111 I am CANCELLING time is 7.99699859396929
+ (Debug//models.Agent1x0):  XXX I am 111 ASK time is 7.99699859396929 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 7.99750323726247
+ (Debug//models.Agent1x0):  XXX I am 196 I am NOT CANCELLING time is 7.99818430130906
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 7.99823813341658
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 7.9990807542792
+ (Debug//models.Agent1x0):  XXX I am 178 I am NOT CANCELLING time is 7.99913158083077
+ (Debug//models.Agent1x0):  XXX I am 165 I am NOT CANCELLING time is 7.9993711829435
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 7.99981484328393
+ (Debug//models.Agent1x0):  XXX I am 176 I am CANCELLING time is 7.99995637661016
+ (Debug//models.Agent1x0):  XXX I am 176 BID time is 7.99995637661016 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 8.00000468011425
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 8.00001079505406
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 8.00021220773394
+ (Debug//models.Agent1x0):  XXX I am 186 I am CANCELLING time is 8.00036440460154
+ (Debug//models.Agent1x0):  XXX I am 186 ASK time is 8.00036440460154 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 8.00049726376104
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 8.00065238134619
+ (Debug//models.Agent1x0):  XXX I am 102 I am NOT CANCELLING time is 8.00086918494281
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 8.00112811504742
+ (Debug//models.Agent1x0):  XXX I am 113 I am NOT CANCELLING time is 8.00116854389143
+ (Debug//models.Agent1x0):  XXX I am 200 I am NOT CANCELLING time is 8.0011964973737
+ (Debug//models.Agent1x0):  XXX I am 119 I am NOT CANCELLING time is 8.00125902901486
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 8.00138453448928
+ (Debug//models.Agent1x0):  XXX I am 195 I am CANCELLING time is 8.00148605443796
+ (Debug//models.Agent1x0):  XXX I am 195 ASK time is 8.00148605443796 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 8.00152340955962
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 8.0015497474564
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 8.0017397506836
+ (Debug//models.Agent1x0):  XXX I am 109 I am NOT CANCELLING time is 8.00207749508945
+ (Debug//models.Agent1x0):  XXX I am 155 I am NOT CANCELLING time is 8.00219033011063
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 8.00278728414479
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 9.99708072163931
+ (Debug//models.Agent1x0):  XXX I am 196 I am NOT CANCELLING time is 9.99738647545738
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 9.99773040079758
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 9.99857214271583
+ (Debug//models.Agent1x0):  XXX I am 178 I am NOT CANCELLING time is 9.99881447101353
+ (Debug//models.Agent1x0):  XXX I am 161 I am CANCELLING time is 9.9989186416076
+ (Debug//models.Agent1x0):  XXX I am 161 BID time is 9.9989186416076 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 194 I am CANCELLING time is 9.99962630919515
+ (Debug//models.Agent1x0):  XXX I am 194 ASK time is 9.99962630919515 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 200 I am NOT CANCELLING time is 10.0002421562143
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 10.0002700264546
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 10.0005043933163
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 10.0005127636556
+ (Debug//models.Agent1x0):  XXX I am 166 I am CANCELLING time is 10.0005690639309
+ (Debug//models.Agent1x0):  XXX I am 166 BID time is 10.0005690639309 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 155 I am NOT CANCELLING time is 10.0007708141601
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 10.0008958818944
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 10.001007320404
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 10.001337568166
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 10.0016574841431
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 10.0019909125664
+ (Debug//models.Agent1x0):  XXX I am 102 I am NOT CANCELLING time is 10.0023764445581
+ (Debug//models.Agent1x0):  XXX I am 109 I am CANCELLING time is 10.0026113196093
+ (Debug//models.Agent1x0):  XXX I am 109 ASK time is 10.0026113196093 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 195 I am CANCELLING time is 10.0027123292626
+ (Debug//models.Agent1x0):  XXX I am 195 ASK time is 10.0027123292626 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 10.0027631141909
+ (Debug//models.Agent1x0):  XXX I am 113 I am CANCELLING time is 10.0030516535365
+ (Debug//models.Agent1x0):  XXX I am 113 BID time is 10.0030516535365 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 10.0031853677241
+ (Debug//models.Agent1x0):  XXX I am 119 I am NOT CANCELLING time is 10.0033628179205
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 10.0038650393156
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 11.9964770411444
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 11.9964770411444 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 196 I am NOT CANCELLING time is 11.9967628294063
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 11.9970070462909
+ (Debug//models.Agent1x0):  XXX I am 161 I am CANCELLING time is 11.9977189457458
+ (Debug//models.Agent1x0):  XXX I am 161 BID time is 11.9977189457458 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 128 I am CANCELLING time is 11.9986269083399
+ (Debug//models.Agent1x0):  XXX I am 128 BID time is 11.9986269083399 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 11.9987708721544
+ (Debug//models.Agent1x0):  XXX I am 155 I am NOT CANCELLING time is 11.9991017045141
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 11.9993748770131
+ (Debug//models.Agent1x0):  XXX I am 194 I am CANCELLING time is 11.9998935916291
+ (Debug//models.Agent1x0):  XXX I am 194 ASK time is 11.9998935916291 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 200 I am NOT CANCELLING time is 12.0001604194763
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 12.0003686714345
+ (Debug//models.Agent1x0):  XXX I am 178 I am CANCELLING time is 12.0003932981131
+ (Debug//models.Agent1x0):  XXX I am 178 BID time is 12.0003932981131 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 102 I am NOT CANCELLING time is 12.0006448159366
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 12.0007244323153
+ (Debug//models.Agent1x0):  XXX I am 146 I am CANCELLING time is 12.0011626896397
+ (Debug//models.Agent1x0):  XXX I am 146 BID time is 12.0011626896397 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 12.0012053286045
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 12.0012623471393
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 12.0020236096461
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 12.0020236096461 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 12.0025866518368
+ (Debug//models.Agent1x0):  XXX I am 140 I am CANCELLING time is 12.0025911307758
+ (Debug//models.Agent1x0):  XXX I am 140 BID time is 12.0025911307758 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 113 I am CANCELLING time is 12.0031676687524
+ (Debug//models.Agent1x0):  XXX I am 113 BID time is 12.0031676687524 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 12.0034531509247
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 12.0040200774929
+ (Debug//models.Agent1x0):  XXX I am 195 I am CANCELLING time is 12.0041306168088
+ (Debug//models.Agent1x0):  XXX I am 195 ASK time is 12.0041306168088 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 109 I am NOT CANCELLING time is 12.0043450577229
+ (Debug//models.Agent1x0):  XXX I am 119 I am NOT CANCELLING time is 12.0062398849196
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 13.9957289317931
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 13.9970413010011
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 13.9972344931974
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 13.9979413926532
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 13.9979413926532 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 200 I am CANCELLING time is 13.9991335981939
+ (Debug//models.Agent1x0):  XXX I am 200 ASK time is 13.9991335981939 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 161 I am CANCELLING time is 13.9992140564179
+ (Debug//models.Agent1x0):  XXX I am 161 BID time is 13.9992140564179 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 13.9994940405657
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 14.0001635615396
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 14.0002078482864
+ (Debug//models.Agent1x0):  XXX I am 155 I am CANCELLING time is 14.0004900027985
+ (Debug//models.Agent1x0):  XXX I am 155 BID time is 14.0004900027985 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 14.0005744085926
+ (Debug//models.Agent1x0):  XXX I am 178 I am NOT CANCELLING time is 14.0005829080097
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 14.0010248693405
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 14.0011916072758
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 14.0017009319571
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 14.0017009319571 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 14.0022393977089
+ (Debug//models.Agent1x0):  XXX I am 166 I am CANCELLING time is 14.0023437686338
+ (Debug//models.Agent1x0):  XXX I am 166 BID time is 14.0023437686338 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 140 I am CANCELLING time is 14.0032399575261
+ (Debug//models.Agent1x0):  XXX I am 140 BID time is 14.0032399575261 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 14.0034149565942
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 14.0034149565942 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 109 I am NOT CANCELLING time is 14.0037827583701
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 14.0044157901367
+ (Debug//models.Agent1x0):  XXX I am 195 I am NOT CANCELLING time is 14.0046060455207
+ (Debug//models.Agent1x0):  XXX I am 128 I am CANCELLING time is 15.9964960202194
+ (Debug//models.Agent1x0):  XXX I am 128 BID time is 15.9964960202194 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 15.9974320480967
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 15.9978866369307
+ (Debug//models.Agent1x0):  XXX I am 197 I am CANCELLING time is 15.9979737195506
+ (Debug//models.Agent1x0):  XXX I am 197 ASK time is 15.9979737195506 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 15.9981097589204
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 15.999103457812
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 16.0001632975519
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 16.0002193231118
+ (Debug//models.Agent1x0):  XXX I am 178 I am NOT CANCELLING time is 16.0011813834174
+ (Debug//models.Agent1x0):  XXX I am 186 I am CANCELLING time is 16.001277889978
+ (Debug//models.Agent1x0):  XXX I am 186 ASK time is 16.001277889978 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 16.0013564853806
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 16.0017735065218
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 16.0020760840267
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 16.0026017217204
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 16.0028787826182
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 16.003099814267
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 16.0031422042533
+ (Debug//models.Agent1x0):  XXX I am 109 I am CANCELLING time is 16.0035265164538
+ (Debug//models.Agent1x0):  XXX I am 109 ASK time is 16.0035265164538 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 112 I am NOT CANCELLING time is 16.0040368523446
+ (Debug//models.Agent1x0):  XXX I am 195 I am NOT CANCELLING time is 16.0040711559867
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 17.9952008171463
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 17.9966725142653
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 17.9975386772459
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 17.998061859351
+ (Debug//models.Agent1x0):  XXX I am 188 I am NOT CANCELLING time is 17.9985658332782
+ (Debug//models.Agent1x0):  XXX I am 101 I am NOT CANCELLING time is 17.9993869299757
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 17.9997141080994
+ (Debug//models.Agent1x0):  XXX I am 114 I am CANCELLING time is 18.0002928879531
+ (Debug//models.Agent1x0):  XXX I am 114 BID time is 18.0002928879531 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 18.0009101721386
+ (Debug//models.Agent1x0):  XXX I am 178 I am CANCELLING time is 18.0010697238244
+ (Debug//models.Agent1x0):  XXX I am 178 BID time is 18.0010697238244 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 18.0014612052781
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 18.0014612052781 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 18.0016102575604
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 18.0025268128587
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 18.0025823278418
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 18.0030310400765
+ (Debug//models.Agent1x0):  XXX I am 166 I am CANCELLING time is 18.0030698342348
+ (Debug//models.Agent1x0):  XXX I am 166 BID time is 18.0030698342348 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 109 I am CANCELLING time is 18.004347747989
+ (Debug//models.Agent1x0):  XXX I am 109 ASK time is 18.004347747989 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 18.004382774956
+ (Debug//models.Agent1x0):  XXX I am 195 I am CANCELLING time is 18.0046575815399
+ (Debug//models.Agent1x0):  XXX I am 195 ASK time is 18.0046575815399 myAskPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 19.9948246274496
+ (Debug//models.Agent1x0):  XXX I am 128 I am CANCELLING time is 19.9961668422212
+ (Debug//models.Agent1x0):  XXX I am 128 BID time is 19.9961668422212 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 19.9967802496565
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 19.9985630909492
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 19.9988640045434
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 19.9999179053374
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 20.0001112082571
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 20.0012194149211
+ (Debug//models.Agent1x0):  XXX I am 146 I am NOT CANCELLING time is 20.0021305699631
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 20.0025626493388
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 20.0026081463938
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 20.00343181417
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 20.00343181417 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 20.0035699602119
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 20.0055777359668
+ (Debug//models.Agent1x0):  XXX I am 197 I am CANCELLING time is 21.9953803227499
+ (Debug//models.Agent1x0):  XXX I am 197 ASK time is 21.9953803227499 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 21.9956729451858
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 21.9967831747604
+ (Debug//models.Agent1x0):  XXX I am 114 I am CANCELLING time is 21.9970812295834
+ (Debug//models.Agent1x0):  XXX I am 114 BID time is 21.9970812295834 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 21.998827889651
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 21.998827889651 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 21.9993166661524
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 21.9994850503662
+ (Debug//models.Agent1x0):  XXX I am 194 I am NOT CANCELLING time is 21.9996664430959
+ (Debug//models.Agent1x0):  XXX I am 137 I am CANCELLING time is 22.0013012705538
+ (Debug//models.Agent1x0):  XXX I am 137 BID time is 22.0013012705538 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 186 I am NOT CANCELLING time is 22.0020156816831
+ (Debug//models.Agent1x0):  XXX I am 146 I am CANCELLING time is 22.0030210010532
+ (Debug//models.Agent1x0):  XXX I am 146 BID time is 22.0030210010532 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 22.0031798963344
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 22.0036938308467
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 22.0036938308467 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 140 I am NOT CANCELLING time is 22.0046824074544
+ (Debug//models.Agent1x0):  XXX I am 197 I am CANCELLING time is 23.9946902602135
+ (Debug//models.Agent1x0):  XXX I am 197 ASK time is 23.9946902602135 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 23.99536797238
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 23.99536797238 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 23.9968903153946
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 23.997156272992
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 23.9985676643798
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 24.0010082349073
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 24.0010315610818
+ (Debug//models.Agent1x0):  XXX I am 166 I am NOT CANCELLING time is 24.002145214085
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 24.0022676786853
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 24.0023245779466
+ (Debug//models.Agent1x0):  XXX I am 140 I am CANCELLING time is 24.0030662609497
+ (Debug//models.Agent1x0):  XXX I am 140 BID time is 24.0030662609497 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 197 I am NOT CANCELLING time is 25.9948987404528
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 25.9961577131887
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 25.9961577131887 myAskPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 25.9971662539382
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 25.9972316269662
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 25.9973737947114
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 26.0008386823627
+ (Debug//models.Agent1x0):  XXX I am 137 I am CANCELLING time is 26.0012323193553
+ (Debug//models.Agent1x0):  XXX I am 137 BID time is 26.0012323193553 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 166 I am CANCELLING time is 26.0014228769991
+ (Debug//models.Agent1x0):  XXX I am 166 BID time is 26.0014228769991 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 26.0021195776986
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 26.0034836162725
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 27.9959709016475
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 27.9959709016475 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 27.99607239521
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 27.9960987277781
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 27.9962486422765
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 28.0012191050894
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 28.0017041784667
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 28.002423395973
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 28.0025257864261
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 29.9955075864481
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 29.9955075864481 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 29.9958404146218
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 29.9959427414944
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 29.9959793108183
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 30.0005672880622
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 30.0015764352939
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 30.0019054119323
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 30.0035038288337
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 31.9950469645902
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 31.9950753020534
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 31.9950753020534 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 31.9951998503437
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 31.9954662479883
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 32.0013912310104
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 32.0013912310104 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 32.0014514430344
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 32.0017746196562
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 32.0038660098925
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 33.9950182287086
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 33.9954958826541
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 33.9958958717095
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 33.9958958717095 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 33.9961421545439
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 34.0017125963888
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 34.0017937285672
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 34.0024447044114
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 34.0024830330232
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 35.9954392308416
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 35.995606861716
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 35.9956444797092
+ (Debug//models.Agent1x0):  XXX I am 128 I am CANCELLING time is 35.9967693198957
+ (Debug//models.Agent1x0):  XXX I am 128 BID time is 35.9967693198957 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 36.0005546224946
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 36.0009247210408
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 36.0024178643099
+ (Debug//models.Agent1x0):  XXX I am 137 I am CANCELLING time is 36.0032876769136
+ (Debug//models.Agent1x0):  XXX I am 137 BID time is 36.0032876769136 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 37.9944368506202
+ (Debug//models.Agent1x0):  XXX I am 174 I am NOT CANCELLING time is 37.9944592237785
+ (Debug//models.Agent1x0):  XXX I am 114 I am NOT CANCELLING time is 37.9968143725614
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 37.9980326963035
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 37.9994433531016
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 38.0000993569222
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 38.0026827265219
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 38.0038909004783
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 39.9929247818184
+ (Debug//models.Agent1x0):  XXX I am 174 I am CANCELLING time is 39.9941825976349
+ (Debug//models.Agent1x0):  XXX I am 174 ASK time is 39.9941825976349 myAskPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 39.9958781262548
+ (Debug//models.Agent1x0):  XXX I am 114 I am CANCELLING time is 39.998646121117
+ (Debug//models.Agent1x0):  XXX I am 114 BID time is 39.998646121117 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.00999999999999979
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 39.9992057424499
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 40.0010441432906
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 40.0023698489679
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 40.0042753990205
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 41.9935563854531
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 41.9957904224251
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 41.9985824816787
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 41.9993216307295
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 41.9993216307295 myBidPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 42.0038005593979
+ (Debug//models.Agent1x0):  XXX I am 137 I am NOT CANCELLING time is 42.0038344646232
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 43.9948071047698
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 43.9955573043318
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 43.9986755614376
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 43.9986755614376 myBidPrice: 12.29 OBprice: 12.29 OBspread: 0.0200000000000014
+ (Debug//models.Agent1x0):  XXX I am 161 I am CANCELLING time is 44.0008618763099
+ (Debug//models.Agent1x0):  XXX I am 161 BID time is 44.0008618763099 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 137 I am CANCELLING time is 44.0033939049918
+ (Debug//models.Agent1x0):  XXX I am 137 BID time is 44.0033939049918 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 44.0042588462998
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 45.9932438182234
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 45.9960871891317
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 46.0002078426428
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 46.0016329687436
+ (Debug//models.Agent1x0):  XXX I am 137 I am CANCELLING time is 46.0024505199019
+ (Debug//models.Agent1x0):  XXX I am 137 BID time is 46.0024505199019 myBidPrice: 12.3 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 46.005828458778
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 47.9925686055267
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 47.9954083399407
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 47.9992021583624
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 48.0004766797998
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 48.0066720235418
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 49.9926817309834
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 49.996139851814
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 49.997943041715
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 50.0003767542771
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 50.0054722135462
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 50.0054722135462 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 51.9935012811042
+ (Debug//models.Agent1x0):  XXX I am 128 I am NOT CANCELLING time is 51.9965811108828
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 51.9992427110374
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 51.9994678481931
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 52.0043549557917
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 53.9932675497008
+ (Debug//models.Agent1x0):  XXX I am 128 I am CANCELLING time is 53.9961718168181
+ (Debug//models.Agent1x0):  XXX I am 128 BID time is 53.9961718168181 myBidPrice: 12.3 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 53.9978366845631
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 53.9987468175978
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 54.0040380306602
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 55.994755844285
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 55.9984214141747
+ (Debug//models.Agent1x0):  XXX I am 161 I am NOT CANCELLING time is 55.9987368203804
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 56.0030585770162
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 57.9957316227563
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 57.9982752492348
+ (Debug//models.Agent1x0):  XXX I am 161 I am CANCELLING time is 57.9985582435924
+ (Debug//models.Agent1x0):  XXX I am 161 BID time is 57.9985582435924 myBidPrice: 12.3 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 58.0043521548162
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 59.9945627337271
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 59.9945627337271 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 59.9984035447361
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 60.0046795146407
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 61.9938108214591
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 61.9980945596454
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 62.0047779523184
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 63.9925183298281
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 63.9979254540732
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 64.0048166750961
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 65.9926360827871
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 65.9985161314002
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 66.0048183776468
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 67.9930695932233
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 67.9930695932233 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 68.000608608534
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 68.0037641387683
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 69.9932520219157
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 70.0002928294881
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 70.0034917353561
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 71.9934414962258
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 72.001397816129
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 72.001397816129 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 72.003113968076
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 72.003113968076 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 73.9942456511339
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 74.0020647200436
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 74.0039776632712
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 75.9948376900094
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 76.0029127940429
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 76.0042223825872
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 77.9966279752079
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 78.0031633420287
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 78.0047985649846
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 79.9965865805398
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 79.9965865805398 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 80.0032748442452
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 80.0041396660357
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 81.9966645057447
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 82.0021475629058
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 82.0049562840959
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 83.9972073718287
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 84.0016330753646
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 84.0026453135206
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 85.9981338887767
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 86.0011768788557
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 86.001247442713
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 87.9971261650404
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 88.0011517141121
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 88.0016456643102
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 88.0016456643102 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 89.9976960235715
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 90.0019064211712
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 90.0019064211712 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 90.0035639196349
+ (Debug//models.Agent1x0):  XXX I am 168 I am NOT CANCELLING time is 91.9974026065592
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 92.0014312718683
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 92.0027537404137
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 93.9973670518639
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 93.9973670518639 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 94.001831440644
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 94.0038709796948
+ (Debug//models.Agent1x0):  XXX I am 168 I am CANCELLING time is 95.9977732576105
+ (Debug//models.Agent1x0):  XXX I am 168 BID time is 95.9977732576105 myBidPrice: 12.3 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 96.0010032347633
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 96.0043273050535
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 96.0043273050535 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 97.9998038988969
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 97.9998038988969 myBidPrice: 12.29 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 98.0055749401106
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 99.9998448994105
+ (Debug//models.Agent1x0):  XXX I am 149 I am NOT CANCELLING time is 100.006541713732
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 101.999001722294
+ (Debug//models.Agent1x0):  XXX I am 149 I am CANCELLING time is 102.006333067416
+ (Debug//models.Agent1x0):  XXX I am 149 BID time is 102.006333067416 myBidPrice: 12.3 OBprice: 12.295 OBspread: 0.0100000000000016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 103.999968269547
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 105.999015454446
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 105.999015454446 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 107.999894773923
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 110.001030387949
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 112.00227497279
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 114.00145022274
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 116.002260876334
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 118.002164494471
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 120.002862038905
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 120.002862038905 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 122.00239621688
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 122.00239621688 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 124.003352882128
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 126.003277486265
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 128.003429146236
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 130.003242022794
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 132.002974582002
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 132.002974582002 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 134.003636971492
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 136.003508345171
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 136.003508345171 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 138.00378226909
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 138.00378226909 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 140.00292551517
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 142.00247818365
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 142.00247818365 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 144.001991073743
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 146.002253321506
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 148.003178464106
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 150.003547490077
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 152.003085636206
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 154.002726528036
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 156.003181330538
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 158.002677062466
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 160.002189905106
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 162.000759030248
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 163.999528788955
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 163.999528788955 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 165.999181104719
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 167.998583771015
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 169.999383957203
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 169.999383957203 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 171.99986230202
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 173.999382950551
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 173.999382950551 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 175.998016829836
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 177.998451839854
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 177.998451839854 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 179.996338982549
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 179.996338982549 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 181.996276726722
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 181.996276726722 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 183.997149415689
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 185.998439231526
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 187.999912983737
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 187.999912983737 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 190.000365336586
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 192.000199391345
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 194.00054384795
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 196.000290174669
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 198.000759482199
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 198.000759482199 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 200.001457336032
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 202.000982751523
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 204.000040606346
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 206.000287966537
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 207.999488956588
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 210.000491035007
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 210.000491035007 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 212.000632013508
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 212.000632013508 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 213.999982822924
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 215.998774815264
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 215.998774815264 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 217.998539017454
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 219.998138561497
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 221.998150254666
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 223.996936584218
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 225.996998656906
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 225.996998656906 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 227.997593267799
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 229.997778416754
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 231.999572359584
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 233.999981010322
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 233.999981010322 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 235.999373461215
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 237.999043386982
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 239.999261366547
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 239.999261366547 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 241.999007289127
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 243.998710692312
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 245.999579369574
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 245.999579369574 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 247.999614859667
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 249.999396633074
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 251.99668020267
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 253.998556977154
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 255.998781396122
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 257.997880078548
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 257.997880078548 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 259.998887390711
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 259.998887390711 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 261.997193304132
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 261.997193304132 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 263.998202827615
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 263.998202827615 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 265.998979795118
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 265.998979795118 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 267.998227280926
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 269.997772458223
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 271.998579421629
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 271.998579421629 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 273.997693722104
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 275.9969175432
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 277.996966420908
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 279.997991118314
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 281.998618490762
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 283.998622137158
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 285.998601368328
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 287.999094396498
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 289.998818020992
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 289.998818020992 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 291.997674874554
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 291.997674874554 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 293.999804653334
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 296.000273181529
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 297.996767430695
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 299.997330061982
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 301.996779504029
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 303.996430538321
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 303.996430538321 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 305.997159437373
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 307.997054155122
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 309.997645943173
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 311.997779865757
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 313.99720501246
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 315.996004233506
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 315.996004233506 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 317.995906053458
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 317.995906053458 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 319.995628755252
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 321.995197938845
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 323.994659215477
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 323.994659215477 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 325.994764369672
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 325.994764369672 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 327.996105546647
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 329.995399346402
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 331.99453253655
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 333.994566005189
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 333.994566005189 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 335.993158750553
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 337.994282592145
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 339.993645609881
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 341.994684709454
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 343.993627237277
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 345.994042652872
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 345.994042652872 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 347.994457795582
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 349.993211231064
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 351.992307327838
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 351.992307327838 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 353.990182059271
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 355.990668504765
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 357.991381738938
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 359.991702289165
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 361.992914209497
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 361.992914209497 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 363.990228211139
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 365.990121388638
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 367.991277484722
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 369.989641907918
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 369.989641907918 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 371.989427437307
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 373.990374456152
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 373.990374456152 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 375.990272888245
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 377.989429153839
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 379.988805854877
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 381.98857805914
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 383.991239550955
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 385.992368801619
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 385.992368801619 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 387.993131826179
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 387.993131826179 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 389.992674480674
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 391.992504393849
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 393.992327307753
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 395.992068285505
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 397.991519278542
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 397.991519278542 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 399.989767869336
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 401.991702067256
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 403.991993462276
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 405.992094136815
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 405.992094136815 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 407.991545045545
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 409.991644535379
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 409.991644535379 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 411.990670463272
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 413.990129775863
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 413.990129775863 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 415.991363693454
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 417.98941605178
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 417.98941605178 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 419.989012118967
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 419.989012118967 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 421.98729945122
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 423.987792550171
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 423.987792550171 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 425.987610083557
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 427.986368382438
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 429.987074208068
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 431.987351156994
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 431.987351156994 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 433.987683820284
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 435.987976955627
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 437.990391601341
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 439.98928104033
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 441.987935468268
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 443.988128374314
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 445.989116222743
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 445.989116222743 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 447.990046320531
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 449.989182247123
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 451.988420931212
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 453.987968487292
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 455.988681423152
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 457.987388114864
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 459.986793916732
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 461.986734518887
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 463.987695845883
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 463.987695845883 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 465.988526115355
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 467.988403280221
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 469.987760813525
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 469.987760813525 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 471.988070820752
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 473.987898645584
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 475.98759147499
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 477.988478811133
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 477.988478811133 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 479.988826068007
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 481.989539687054
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 481.989539687054 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 483.989376627917
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 483.989376627917 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 485.990759880054
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 487.990849841562
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 487.990849841562 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 489.988861424132
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 491.990409706257
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 493.98995802593
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 495.987825645866
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 497.985798822092
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 497.985798822092 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 499.985608585378
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 501.985158139987
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 501.985158139987 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 503.983859474118
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 503.983859474118 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 505.984110160084
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 507.982924399343
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 509.981418833748
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 511.980668598986
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 513.980489916356
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 515.979764130113
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 517.978851560011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 519.980352266105
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 521.982530669175
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 523.981198305858
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 525.980775700673
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 527.980947412876
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 527.980947412876 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 529.980506431663
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 531.981003786655
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 531.981003786655 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 533.982039949099
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 533.982039949099 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 535.981969521403
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 535.981969521403 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 537.982260293182
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 539.982136445484
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 541.982043772159
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 543.982091958534
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 545.981889411342
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 547.980601107381
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 549.979709649023
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 549.979709649023 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 551.981266635376
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 551.981266635376 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 553.979745841981
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 555.980512350779
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 555.980512350779 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 557.98015204618
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 559.980589808949
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 559.980589808949 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 561.981368970971
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 563.982713546551
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 563.982713546551 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 565.983857704421
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 567.983365762536
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 567.983365762536 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 569.982241564847
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 571.981723874202
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 573.982815852105
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 575.985281062865
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 577.985533989368
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 579.985570123866
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 581.985618285134
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 583.986552283683
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 585.986582307673
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 587.986633255705
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 589.98681390324
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 591.986235822979
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 593.985896601257
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 595.985980941358
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 597.984451641056
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 599.985214537283
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 601.984042950478
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 603.984187366288
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 603.984187366288 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 605.983552654747
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 607.985003333406
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 607.985003333406 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 609.985411545229
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 609.985411545229 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 611.984693574079
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 613.98671542971
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 615.986821528222
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 615.986821528222 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 617.985556610095
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 619.987763416061
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 619.987763416061 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 621.988006677742
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 623.987212946281
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 625.988230351857
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 627.988635250742
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 629.990016154875
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 631.99049860932
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 633.990864725892
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 635.990038153234
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 637.990927348631
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 639.990804537005
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 639.990804537005 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 641.990855769582
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 641.990855769582 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 643.989346564092
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 645.986853381453
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 645.986853381453 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 647.98850112702
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 647.98850112702 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 649.988257115888
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 649.988257115888 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 651.987215226644
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 653.987698277139
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 653.987698277139 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 655.986261362352
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 657.985809787781
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 657.985809787781 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 659.986517878221
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 661.986357623233
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 661.986357623233 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 663.986138871413
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 663.986138871413 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 665.985507995138
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 667.98508114112
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 669.984165944155
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 669.984165944155 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 671.985665307063
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 673.985524759184
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 675.986436598792
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 677.986857519129
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 679.987717787984
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 681.988793930752
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 681.988793930752 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 683.989441862279
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 683.989441862279 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 685.988699191152
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 687.989210829115
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 687.989210829115 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 689.987866613038
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 691.987668456132
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 693.986892093325
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 693.986892093325 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 695.986395644559
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 697.985755125977
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 699.986637213621
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 701.986288732847
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 701.986288732847 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 703.986505025387
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 703.986505025387 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 705.987014795837
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 705.987014795837 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 707.986559237336
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 709.986239115961
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 709.986239115961 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 711.986132963255
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 713.985063623031
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 715.98452858977
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 717.984164303018
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 719.984945036297
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 721.983717118381
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 723.984172413622
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 725.986858892809
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 727.986835569023
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 727.986835569023 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 729.986987540278
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 731.986239300424
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 733.985724933514
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 735.986255710117
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 737.985500309502
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 739.986913117301
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 739.986913117301 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 741.985323802331
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 743.985170384704
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 743.985170384704 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 745.984569832696
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 747.983297767507
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 749.983123432993
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 751.982718202822
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 753.984706250628
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 753.984706250628 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 755.982851008445
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 757.983075206883
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 759.983334595573
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 759.983334595573 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 761.983308540359
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 763.983102353395
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 765.983094378589
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 767.983375465411
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 769.982555663353
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 769.982555663353 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 771.981667667567
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 773.981537721701
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 775.983617125295
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 777.984466942189
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 779.982983298072
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 781.983223731561
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 783.983514789241
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 783.983514789241 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 785.982089890161
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 787.982809429727
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 789.982809129177
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 791.981368028484
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 793.982322063852
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 795.983300897035
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 797.984453692762
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 799.98516835026
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 799.98516835026 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 801.984734190984
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 803.98369914427
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 803.98369914427 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 805.983240338985
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 807.984370155952
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 807.984370155952 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 809.983749775587
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 811.983558601044
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 813.985482561913
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 813.985482561913 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 815.984804016923
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 815.984804016923 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 817.983483115596
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 819.984753664314
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 821.983895750152
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 823.984503297556
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 825.984656974224
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 825.984656974224 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 827.984791635451
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 827.984791635451 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 829.985833088876
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 831.984143767935
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 833.984792128523
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 835.985646386697
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 837.986024355097
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 839.986190460522
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 841.985387997127
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 841.985387997127 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 843.985353134931
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 845.984586797902
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 847.984398624181
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 849.985380240486
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 851.988282887628
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 853.987950134208
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 855.988955760551
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 857.988888700643
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 859.986394407686
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 861.986943940123
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 863.985479428261
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 865.982823729559
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 865.982823729559 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 867.983820315392
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 869.982878573183
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 871.983950102379
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 871.983950102379 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 873.986182722762
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 875.986181431597
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 877.985556259693
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 879.985153889397
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 881.983044189132
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 883.983117542999
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 885.98303151918
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 887.984349381659
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 889.983537884313
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 891.983639005625
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 893.984235991831
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 893.984235991831 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 895.984153546462
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 897.985101591775
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 899.985359213314
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 901.984568159499
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 903.984273399427
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 905.985195317147
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 907.985387556422
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 907.985387556422 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 909.986351650004
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 911.98604688156
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 913.986486916735
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 915.985644749019
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 917.98710257075
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 919.984562288967
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 921.984866660986
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 923.985399997836
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 925.985802631513
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 927.987461186477
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 929.985398137461
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 931.985043949476
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 933.983666178394
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 935.984241045852
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 937.984589886561
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 939.983637355998
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 941.983397215439
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 943.982533639082
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 945.982520908099
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 947.98092365554
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 947.98092365554 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 949.982289880618
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 951.983036341437
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 951.983036341437 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 953.98174730052
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 955.981715630101
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 957.981119329964
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 959.981614234253
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 961.981615764979
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 963.981391652985
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 965.981534435613
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 967.980690333062
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 967.980690333062 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 969.97844973752
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 969.97844973752 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 971.98024313935
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 973.9789782624
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 975.978869136784
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 977.978901419505
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 979.980102848842
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 981.981761688226
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 983.981931619336
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 985.982265710357
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 987.983336457381
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 989.984471653453
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 991.984880313678
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 991.984880313678 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 993.98532615927
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 995.986769537906
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 997.988118682433
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 999.986521727681
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1001.98730658831
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1001.98730658831 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1003.98778778687
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1005.98937323379
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1007.98974015921
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1009.98937896216
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1011.98979674689
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1013.98813522793
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1015.9877093065
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1017.9882579715
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1017.9882579715 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1019.98771222432
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1021.98767776196
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1023.98961995946
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1023.98961995946 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1025.99053053443
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1027.99253055054
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1029.99207064679
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1031.99196483852
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1033.99206013073
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1035.99281489808
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1035.99281489808 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1037.99250439016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1039.99271405079
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1041.99190463735
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1043.9912320169
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1045.99043045378
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1047.98953671642
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1049.98872443369
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1051.99057772275
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1053.99106626112
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1055.99225728124
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1057.9916360541
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1059.99126132498
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1059.99126132498 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1061.99193789012
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1063.99053029518
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1065.9912904909
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1065.9912904909 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1067.99113191226
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1067.99113191226 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1069.99095928989
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1071.99005465969
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1071.99005465969 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1073.9905933334
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1075.99085733898
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1077.991874993
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1079.99099752726
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1081.99095033515
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1083.99243525631
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1085.98977705017
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1085.98977705017 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1087.99002208047
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1089.99078047587
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1091.99019082018
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1093.98945288774
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1095.9888692088
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1097.98739800085
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1099.98734351205
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1101.98667688571
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1101.98667688571 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1103.98577554108
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1103.98577554108 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1105.98679684483
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1107.98670664511
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1107.98670664511 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1109.98428211412
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1109.98428211412 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1111.98250701414
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1111.98250701414 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1113.98269066267
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1115.98329053887
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1115.98329053887 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1117.98333573941
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1119.98285781386
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1121.98295330948
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1123.98123781225
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1125.98078426835
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1127.98086156904
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1129.98115022717
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1131.98074254727
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1133.98076044078
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1135.98138926635
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1135.98138926635 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1137.98151501478
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1139.9813902388
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1141.98190126885
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1143.98185962139
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1145.98263683868
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1147.98208346239
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1149.98108928055
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1149.98108928055 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1151.98096633682
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1151.98096633682 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1153.98116143008
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1155.97940789122
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1157.97862956591
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1159.97952767666
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1161.97771772712
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1163.97893591316
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1163.97893591316 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1165.97964740388
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1167.97964795485
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1169.97900130638
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1169.97900130638 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1171.98008001761
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1173.97906869923
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1175.98084756056
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1177.97971446762
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1177.97971446762 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1179.97976270905
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1179.97976270905 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1181.980977158
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1181.980977158 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1183.98246189804
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1185.98145945214
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1187.98156130055
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1189.98325957199
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1191.98241098258
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1193.98311105851
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1195.98280450239
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1197.98345792018
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1199.98315195125
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1199.98315195125 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1201.98151286103
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1203.98054986936
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1205.97977913561
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1207.97962194532
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1209.97929091722
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1209.97929091722 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1211.97952026142
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1213.98034585749
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1215.97833915614
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1217.97822669888
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1219.97803015132
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1221.97920666083
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1223.97988484077
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1225.97913471386
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1225.97913471386 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1227.97845470009
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1229.979010905
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1229.979010905 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1231.97702116875
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1233.97700167544
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1235.977762898
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1235.977762898 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1237.97616266565
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1237.97616266565 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1239.97533415195
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1239.97533415195 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1241.97424891277
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1243.97521150084
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1245.97487280854
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1247.97354491128
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1249.97253840999
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1251.97305277751
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1251.97305277751 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1253.97340563415
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1255.97413488476
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1257.97396927505
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1257.97396927505 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1259.973932913
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1261.97452753159
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1263.97375205951
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1265.97399706261
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1267.97585613536
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1267.97585613536 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1269.97697230796
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1269.97697230796 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1271.97705165973
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1271.97705165973 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1273.97734848406
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1273.97734848406 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1275.97697065445
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1275.97697065445 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1277.97595048004
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1279.97486763217
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1281.97463333032
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1283.97482410685
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1283.97482410685 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1285.97629085306
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1285.97629085306 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1287.97573541974
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1287.97573541974 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1289.97690354323
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1291.97801267356
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1293.97910236385
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1295.97729954884
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1297.9771990519
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1299.97776478008
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1301.9774027673
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1301.9774027673 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1303.97742151081
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1305.97745997233
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1307.97642955519
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1309.97796406224
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1311.97643138133
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1313.97555186635
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1315.97593483509
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1317.97524840096
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1319.97532641651
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1321.97552689333
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1321.97552689333 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1323.97712264916
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1325.97835700068
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1327.97935913562
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1329.97916650709
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1331.98017032814
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1331.98017032814 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1333.97961960145
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1335.97956929087
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1337.97960003529
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1339.97865310895
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1339.97865310895 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1341.97873527335
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1343.97793684679
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1345.97893577663
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1347.98011510762
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1349.97779972816
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1351.9778868308
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1353.97715533848
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1355.9750328759
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1357.97471210031
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1359.97573005063
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1361.97407446767
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1363.97527111551
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1363.97527111551 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1365.97645795891
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1365.97645795891 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1367.97697825004
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1369.97700645859
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1371.97845658558
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1373.97733210494
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1375.9776520468
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1377.97520287428
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1377.97520287428 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1379.97557109813
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1381.97680530557
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1381.97680530557 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1383.97646357358
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1385.9769040009
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1387.97751536616
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1387.97751536616 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1389.97825031048
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1389.97825031048 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1391.97935533955
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1393.98041883736
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1395.98142953798
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1397.98254320102
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1399.98336123639
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1399.98336123639 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1401.98321597802
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1403.98384901268
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1405.9842899309
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1407.98491997702
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1409.9858010044
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1411.9850202071
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1413.98614764024
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1415.9868474294
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1417.98666621915
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1419.98582330963
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1421.98598692652
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1421.98598692652 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1423.98559308093
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1425.98500785349
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1425.98500785349 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1427.98659983616
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1429.98573782541
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1431.98538342764
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1433.98443877358
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1433.98443877358 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1435.98398053177
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1435.98398053177 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1437.98374669317
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1439.98395438527
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1441.98463913882
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1443.98447115723
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1445.98430122296
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1447.98305706386
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1449.98271585292
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1451.98257800199
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1453.98223602361
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1455.98234738305
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1457.98150684453
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1459.98333278137
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1461.98148399569
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1461.98148399569 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1463.98219392555
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1465.98413949221
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1465.98413949221 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1467.98215495407
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1467.98215495407 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1469.9819268262
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1469.9819268262 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1471.98135470899
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1471.98135470899 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1473.98124648913
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1475.98170669603
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1477.98219022237
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1477.98219022237 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1479.98247895507
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1479.98247895507 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1481.98124637208
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1481.98124637208 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1483.98202381805
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1485.98172786048
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1485.98172786048 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1487.9800214426
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1489.97968279476
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1491.98036091476
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1493.97920142473
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1495.97744130805
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1495.97744130805 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1497.97833153387
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1499.979773037
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1501.97944736464
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1503.97928864555
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1505.9775127264
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1507.97828742342
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1509.97754899503
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1511.97514573577
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1513.97536397047
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1515.97614580888
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1517.97525717551
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1517.97525717551 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1519.975755764
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1521.97607075199
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1523.9777829586
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1525.9756574717
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1527.97475308431
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1529.97404305411
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1529.97404305411 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1531.97316686104
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1533.97413385506
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1535.97591037864
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1537.97755249881
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1539.9777853321
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1541.97635260448
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1543.97569348591
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1543.97569348591 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1545.975626013
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1547.97582496168
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1549.97639141629
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1551.97627878048
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1553.97573621323
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1553.97573621323 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1555.97668850816
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1557.97642893733
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1557.97642893733 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1559.97763011432
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1561.97891222371
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1561.97891222371 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1563.97863241293
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1565.97813705697
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1565.97813705697 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1567.97752178199
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1569.97733189968
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1569.97733189968 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1571.97642732528
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1573.97531082199
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1575.97347151315
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1577.97299926853
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1579.9720114696
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1579.9720114696 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1581.97267980964
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1583.97285983857
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1585.97340159328
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1587.97225868238
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1589.97086977967
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1591.97031345795
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1593.97096598324
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1595.9712446828
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1597.97171640061
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1599.97159256199
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1601.97171962716
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1601.97171962716 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1603.9720102379
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1605.9721877646
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1605.9721877646 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1607.97160935829
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1609.97005606668
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1611.97069772383
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1611.97069772383 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1613.97080202367
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1615.96973028621
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1617.97047613872
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1619.9699043179
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1619.9699043179 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1621.97031846018
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1623.9693670517
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1625.96982589481
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1627.97075848901
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1629.97155976541
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1631.971294995
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1633.97235348877
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1635.96996507724
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1637.9680460727
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1639.96861894766
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1641.96874378559
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1643.97008888358
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1645.97122192805
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1647.97059064053
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1649.97171980686
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1649.97171980686 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1651.97063503999
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1653.96989149682
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1655.97023860404
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1657.97026146241
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1659.97053466946
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1661.97206030822
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1663.97162928495
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1665.97241176684
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1667.97296785517
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1669.97271018243
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1671.97025464729
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1671.97025464729 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1673.96790902481
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1675.96848312851
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1677.97011912859
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1677.97011912859 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1679.97002903119
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1681.96971954492
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1683.97048011857
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1685.97119471277
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1687.97254067819
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1689.97111812866
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1691.96886643062
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1693.97105350599
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1695.97013546256
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1697.97183072903
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1699.97116821512
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1701.97203916781
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1701.97203916781 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1703.9726814272
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1703.9726814272 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1705.97113684268
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1707.96985289304
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1709.97028570105
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1711.97143271057
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1711.97143271057 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1713.97130343979
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1713.97130343979 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1715.97199484021
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1715.97199484021 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1717.97190224576
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1717.97190224576 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1719.9718634526
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1719.9718634526 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1721.97251415489
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1723.97162771154
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1725.97107169022
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1727.97156040214
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1729.97042730223
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1731.97079833337
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1733.97028097918
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1733.97028097918 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1735.9700416233
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1737.97165532534
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1739.97116486326
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1741.9693431635
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1743.97085584394
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1743.97085584394 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1745.9702746513
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1747.96934383099
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1749.96864257442
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1749.96864257442 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1751.96846128313
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1751.96846128313 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1753.96895860437
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1755.96951285236
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1757.96912685752
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1759.96919235232
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1761.96730890747
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1763.96641935249
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1765.96566325997
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1767.96552554712
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1767.96552554712 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1769.96463902649
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1769.96463902649 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1771.96480666153
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1773.966374838
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1775.96581597623
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1777.9657963496
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1779.9645590579
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1781.96315467056
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1783.96477772119
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1785.9636250314
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1787.96169328299
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1789.96281748425
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1791.96361155001
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1793.962225782
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1793.962225782 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1795.95944880232
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1797.96042683203
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1799.96049869942
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1799.96049869942 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1801.96075697945
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1801.96075697945 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1803.9599033511
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1805.96103128859
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1807.96087022448
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1809.95887683839
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1809.95887683839 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1811.95804394319
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1813.95625609227
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1815.95550218115
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1817.95525419805
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1819.95453504607
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1821.95416538328
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1823.95404210922
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1825.95529116065
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1827.95507175323
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1829.95563914157
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1829.95563914157 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1831.95535559418
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1833.95555582861
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1835.95528864611
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1837.95624797629
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1839.95671515416
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1841.95642610083
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1841.95642610083 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1843.95624536009
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1845.95544720013
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1847.95704975422
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1849.95631155532
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1851.95565471209
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1853.95533040634
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1855.95462572449
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1855.95462572449 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1857.95542639625
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1859.95490316231
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1861.9532308718
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1863.95414518899
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1863.95414518899 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1865.95436617107
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1867.9531423161
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1869.95420722431
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1871.95367572356
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1871.95367572356 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1873.9520427914
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1875.95280218589
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1877.95122068056
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1879.95176522221
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1881.95110302045
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1883.95046021927
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1885.94992023517
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1887.94891715297
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1889.94865727099
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1891.94816221417
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1893.94900937928
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1893.94900937928 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1895.94823955584
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1895.94823955584 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1897.94853783013
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1897.94853783013 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1899.94884292978
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1901.94982925475
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1903.95152912947
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1905.95213203027
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1905.95213203027 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1907.95321792126
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1907.95321792126 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1909.95275349309
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1911.95223748165
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1913.95157053348
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1915.95166588946
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1915.95166588946 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1917.95235590144
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1917.95235590144 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1919.95296574472
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1921.95360823516
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1923.95434359233
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1925.95419229098
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1925.95419229098 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1927.95485997062
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1929.95386890086
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1929.95386890086 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1931.95487983589
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1931.95487983589 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1933.95422957889
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1933.95422957889 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1935.9531525016
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1937.95210078986
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1939.95301851473
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1941.95421711181
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1941.95421711181 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1943.95350430901
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1943.95350430901 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1945.95436269758
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1945.95436269758 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1947.95519617056
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1949.95503938017
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1951.95479585871
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1953.95461314946
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1955.95327815369
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1955.95327815369 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1957.95451235739
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1959.9566370488
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1959.9566370488 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1961.95612540802
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1963.95555473512
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1965.95673639842
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1965.95673639842 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1967.95618205416
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1969.95711095158
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1971.95614035402
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1971.95614035402 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1973.95687261312
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1973.95687261312 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1975.95718470806
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1977.95758370667
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1979.9594828326
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1979.9594828326 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1981.96028821641
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1981.96028821641 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1983.96185129631
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1985.96343988718
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1985.96343988718 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1987.96316160136
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1989.96321752737
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1991.96506337303
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1993.96579258455
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1993.96579258455 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1995.96530042988
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1995.96530042988 myBidPrice: 12.28 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 1997.96400911699
+ (Debug//models.Agent1x0):  XXX I am 148 I am CANCELLING time is 1999.96432488282
+ (Debug//models.Agent1x0):  XXX I am 148 BID time is 1999.96432488282 myBidPrice: 12.29 OBprice: 12.285 OBspread: 0.0300000000000011
+ (Debug//models.Agent1x0):  XXX I am 148 I am NOT CANCELLING time is 2001.96522221268

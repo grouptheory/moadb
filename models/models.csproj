@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A364B1B3-83CF-434F-B10A-7A603F8CC3FE}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>models</RootNamespace>
+    <AssemblyName>models</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <StartupObject>models.Main_models</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>True</Externalconsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>True</Externalconsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Main_models.cs" />
+    <Compile Include="ModelDummy\AgentDummy.cs" />
+    <Compile Include="ModelDummy\AgentDummy_Factory.cs" />
+    <Compile Include="OrderbookLoader\AgentOrderbookLoader.cs" />
+    <Compile Include="OrderbookLoader\AgentOrderbookLoader_Factory.cs" />
+    <Compile Include="Model0x0\Agent0x0.cs" />
+    <Compile Include="Model0x0\Agent0x0_Factory.cs" />
+    <Compile Include="Model0x1\Agent0x1.cs" />
+    <Compile Include="Model0x1\Agent0x1_Factory.cs" />
+    <Compile Include="Model0x2\Agent0x2.cs" />
+    <Compile Include="Model0x2\Agent0x2_Factory.cs" />
+    <Compile Include="Model1x0\Agent1x0.cs" />
+    <Compile Include="Model1x0\Agent1x0_Factory.cs" />
+    <Compile Include="Model0xA\Agent0xA.cs" />
+    <Compile Include="Model0xB\Agent0xB.cs" />
+    <Compile Include="Model0xA\Agent0xA_Factory.cs" />
+    <Compile Include="Model0xB\Agent0xB_Factory.cs" />
+    <Compile Include="Model0xC\Agent0xC.cs" />
+    <Compile Include="Model0xC\Agent0xC_Factory.cs" />
+    <Compile Include="ModelZx0\AgentZx0.cs" />
+    <Compile Include="ModelZx0\AgentZx0_Factory.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\core\core.csproj">
+      <Project>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</Project>
+      <Name>core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\agent\agent.csproj">
+      <Project>{82319767-439E-4DB2-A109-EDDB8DD26313}</Project>
+      <Name>agent</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\logger\logger.csproj">
+      <Project>{7141709D-2F2F-4A00-ACDE-3310AAB80E40}</Project>
+      <Name>logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\des\des.csproj">
+      <Project>{F110DA21-A9A1-448A-9CBF-9D1462ACE4B6}</Project>
+      <Name>des</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\orderbook\orderbook.csproj">
+      <Project>{FE9BBF32-F28D-4167-A3E0-0C0D626C8E37}</Project>
+      <Name>orderbook</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ModelDummy\" />
+    <Folder Include="OrderbookLoader\" />
+    <Folder Include="Model0x0\" />
+    <Folder Include="Model0x1\" />
+    <Folder Include="Model0x2\" />
+    <Folder Include="Model1x0\" />
+    <Folder Include="ModelZx0\" />
+  </ItemGroup>
+</Project>

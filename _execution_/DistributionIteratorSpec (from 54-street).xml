@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DistributionSpaceIteratorSpecification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Specifications>
+    <DistributionParameterIteratorSpecification>
+      <ID>0</ID>
+      <Name>w_0</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>1</ID>
+      <Name>w_1</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+
+    <DistributionParameterIteratorSpecification>
+      <ID>2</ID>
+      <Name>w_0</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>3</ID>
+      <Name>w_1</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+
+    <DistributionParameterIteratorSpecification>
+      <ID>4</ID>
+      <Name>w_0</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>5</ID>
+      <Name>w_1</Name>
+      <Min>0.1</Min>
+      <Max>0.9</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+
+
+  </Specifications>
+</DistributionSpaceIteratorSpecification>

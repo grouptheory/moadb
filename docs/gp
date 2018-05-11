@@ -1,0 +1,22 @@
+plot "test.dat" using 1:2:3 with yerrorbars
+
+set terminal postscript eps enhanced 
+set output "Price.eps"
+
+set yrange [ 35 : 40 ]
+set title "Agent0x0 Price Trajectory"
+set ylabel "price"  
+set ylabel "time"  
+plot "Price-1.tra" using 1:2 with lines notitle lt 2 lc 7, "Price-2.tra" using 1:2 with lines notitle lt 2 lc 7, "Price-Mean.tra" using 1:2:3 with yerrorbars t "Mean" lc 1
+
+\documentclass{article}
+\usepackage{graphics}
+\begin{document}
+  \begin{figure}
+    \begin{center}
+      \resizebox{120mm}{!}{\includegraphics{test.eps}}
+      \caption{This is a sample figure.}
+      \label{test}
+    \end{center}
+  \end{figure}
+\end{document}

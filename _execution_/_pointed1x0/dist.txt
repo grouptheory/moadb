@@ -1,0 +1,39 @@
+Distribution file: TemplateDistribution.xml
+Main_utils
+MakePrintDistribution
+Arguments parsing successful.
+  file1 = /Users/human/Documents/dev/moadb/moadb/_execution_/_pointed1x0/TemplateDistribution.xml
+ =========================================================================================
+ ===  MOADB Execution: 6/3/2013 1:02:29 PM
+ =========================================================================================
+ Log4net is enabled.
+The distribution in /Users/human/Documents/dev/moadb/moadb/_execution_/_pointed1x0/TemplateDistribution.xml is:
+
+Product[BlauSpace[Dim:6]: aggressiveness(0,1), clock(2,105), optimism(-1,1), patience(0.01,1), riskiness(0,2), trendiness(-1,1)] 6
+(
+     Product[BlauSpace[Dim:5]: aggressiveness(0,1), clock(2,105), optimism(-1,1), patience(0.01,1), riskiness(0,2)] 5
+     (
+          Product[BlauSpace[Dim:4]: aggressiveness(0,1), clock(2,105), optimism(-1,1), patience(0.01,1)] 4
+          (
+               Product[BlauSpace[Dim:3]: aggressiveness(0,1), clock(2,105), optimism(-1,1)] 3
+               (
+                    Product[BlauSpace[Dim:2]: aggressiveness(0,1), clock(2,105)] 2
+                    (
+                         Pointed[BlauSpace[Dim:1]: aggressiveness(0,1)]1(value=0.5)
+                         CROSS
+                         Pointed[BlauSpace[Dim:1]: clock(2,105)]1(value=5)
+                    )
+                    CROSS
+                    Pointed[BlauSpace[Dim:1]: optimism(-1,1)]1(value=0.001)
+               )
+               CROSS
+               Pointed[BlauSpace[Dim:1]: patience(0.01,1)]1(value=0.2)
+          )
+          CROSS
+          Pointed[BlauSpace[Dim:1]: riskiness(0,2)]1(value=1)
+     )
+     CROSS
+     Pointed[BlauSpace[Dim:1]: trendiness(-1,1)]1(value=0.1)
+)
+
+

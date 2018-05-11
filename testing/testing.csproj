@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E978CD67-D711-49FB-A7F5-97E231224C4A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>testing</RootNamespace>
+    <AssemblyName>testing</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>False</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="nunit.framework, Version=2.6.0.12051, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="nunit.core, Version=2.6.0.12051, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
+      <Private>False</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="agent_tests.cs" />
+    <Compile Include="blau_tests.cs" />
+    <Compile Include="core_tests.cs" />
+    <Compile Include="des_tests.cs" />
+    <Compile Include="dist_tests.cs" />
+    <Compile Include="logger_tests.cs" />
+    <Compile Include="models_tests.cs" />
+    <Compile Include="orderbook_tests.cs" />
+    <Compile Include="signal_tests.cs" />
+    <Compile Include="hurst_tests.cs" />
+    <Compile Include="config_test.cs" />
+    <Compile Include="serialization_tests.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\agent\agent.csproj">
+      <Project>{82319767-439E-4DB2-A109-EDDB8DD26313}</Project>
+      <Name>agent</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\blau\blau.csproj">
+      <Project>{4449B3AF-3054-4D87-8850-9CB4D5FC6F84}</Project>
+      <Name>blau</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\core\core.csproj">
+      <Project>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</Project>
+      <Name>core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\des\des.csproj">
+      <Project>{F110DA21-A9A1-448A-9CBF-9D1462ACE4B6}</Project>
+      <Name>des</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\logger\logger.csproj">
+      <Project>{7141709D-2F2F-4A00-ACDE-3310AAB80E40}</Project>
+      <Name>logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\moadb\moadb.csproj">
+      <Project>{7FFEB029-4548-4126-A9C2-712968D3C64C}</Project>
+      <Name>moadb</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\models\models.csproj">
+      <Project>{A364B1B3-83CF-434F-B10A-7A603F8CC3FE}</Project>
+      <Name>models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\orderbook\orderbook.csproj">
+      <Project>{FE9BBF32-F28D-4167-A3E0-0C0D626C8E37}</Project>
+      <Name>orderbook</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\signal\signal.csproj">
+      <Project>{16CFAA07-D782-4996-989E-AA014886EF81}</Project>
+      <Name>signal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\sim\sim.csproj">
+      <Project>{14CAD295-BEEA-48E8-9B22-D25A8C18578D}</Project>
+      <Name>sim</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\dist\dist.csproj">
+      <Project>{CD3AEB8A-3D28-4D6E-BADA-3F7045BCF86C}</Project>
+      <Name>dist</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\metrics\metrics.csproj">
+      <Project>{D03103AB-387B-4C72-BB23-284FCC1CEF57}</Project>
+      <Name>metrics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\config\config.csproj">
+      <Project>{77F225FF-56CB-4263-8872-CEB26730C00E}</Project>
+      <Name>config</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\experiment\experiment.csproj">
+      <Project>{0A96BC3D-DA4A-4F76-A323-76866FA014F3}</Project>
+      <Name>experiment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\serialization\serialization.csproj">
+      <Project>{BD984174-DCFC-405C-8B6D-76A3CEB515C6}</Project>
+      <Name>serialization</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DistributionSpaceIteratorSpecification xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Specifications>
+    <DistributionParameterIteratorSpecification>
+      <ID>0</ID>
+      <Name>riskiness-Max</Name>
+      <Min>0.60</Min>
+      <Max>1.40</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>1</ID>
+      <Name>riskiness-Min</Name>
+      <Min>0.60</Min>
+      <Max>1.40</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+    <DistributionParameterIteratorSpecification>
+      <ID>2</ID>
+      <Name>aggressiveness-Value</Name>
+      <Min>0.10</Min>
+      <Max>0.90</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>3</ID>
+      <Name>trendiness-Min</Name>
+      <Min>-0.3</Min>
+      <Max>0.3</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>4</ID>
+      <Name>trendiness-Max</Name>
+      <Min>-0.3</Min>
+      <Max>0.3</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>5</ID>
+      <Name>patience-Value</Name>
+      <Min>0.05</Min>
+      <Max>0.35</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>6</ID>
+      <Name>optimism-Min</Name>
+      <Min>-0.005</Min>
+      <Max>0.005</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>7</ID>
+      <Name>optimism-Max</Name>
+      <Min>-0.005</Min>
+      <Max>0.005</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+
+    <DistributionParameterIteratorSpecification>
+      <ID>8</ID>
+      <Name>clock-Value</Name>
+      <Min>3.0</Min>
+      <Max>7.0</Max>
+      <Step>2</Step>
+    </DistributionParameterIteratorSpecification>
+  </Specifications>
+</DistributionSpaceIteratorSpecification>

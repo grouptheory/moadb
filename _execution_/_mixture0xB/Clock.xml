@@ -1,0 +1,42 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Distribution_Pointed id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4931.37848%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>10000</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-2" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-3" />
+      <AbstractDistribution_x002B__space href="#ref-4" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <SOAP-ENC:Array id="ref-2" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>2</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10000</item>
+    </SOAP-ENC:Array>
+    <a2:BlauSpace id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4931.35177%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-5">BlauSpace[Dim:1]: Clock(2,10000)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-6" />
+    </a2:BlauSpace>
+    <a3:Hashtable id="ref-6" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>1</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-7" />
+      <Values href="#ref-8" />
+      <equalityComparer xsi:null="1" />
+    </a3:Hashtable>
+    <SOAP-ENC:Array id="ref-7" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-8" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-9" />
+    </SOAP-ENC:Array>
+    <a2:BlauSpaceAxis id="ref-9" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4931.35177%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-10">Clock</_name>
+      <_minimumValue>2</_minimumValue>
+      <_maximumValue>10000</_maximumValue>
+    </a2:BlauSpaceAxis>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

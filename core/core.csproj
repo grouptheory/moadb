@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{30AD07F5-6127-443F-BEFB-CFFBAA3D263A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>core</RootNamespace>
+    <AssemblyName>core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>True</Externalconsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>none</DebugType>
+    <Optimize>False</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Externalconsole>True</Externalconsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Runtime.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="INamedTemporalObject.cs" />
+    <Compile Include="INamedObject.cs" />
+    <Compile Include="ITemporalObject.cs" />
+    <Compile Include="agent\IAgent.cs" />
+    <Compile Include="agent\IPopulation.cs" />
+    <Compile Include="blau\IBlauPoint.cs" />
+    <Compile Include="blau\IBlauSpace.cs" />
+    <Compile Include="blau\IBlauSpaceAxis.cs" />
+    <Compile Include="blau\IBlauSpaceIterator.cs" />
+    <Compile Include="dist\IDistribution.cs" />
+    <Compile Include="dist\IDistributionSpace.cs" />
+    <Compile Include="dist\IDistributionSpaceFactory.cs" />
+    <Compile Include="dist\IDistributionSpaceIterator.cs" />
+    <Compile Include="orderbook\IOrder.cs" />
+    <Compile Include="orderbook\IOrder_Mutable.cs" />
+    <Compile Include="orderbook\IOrderbook_Agent.cs" />
+    <Compile Include="orderbook\IOrderbook_Matcher.cs" />
+    <Compile Include="orderbook\IOrderbook_Observable.cs" />
+    <Compile Include="orderbook\IOrderbookEvent.cs" />
+    <Compile Include="orderbook\IOrderbookObserver.cs" />
+    <Compile Include="agent\IAgentFactory.cs" />
+    <Compile Include="orderbook\IMatcher.cs" />
+    <Compile Include="sim\ISimulation.cs" />
+    <Compile Include="sim\ISimulationBundle.cs" />
+    <Compile Include="sim\ISimulationEvent.cs" />
+    <Compile Include="sim\ISimulationObserver.cs" />
+    <Compile Include="sim\ISimulationParameters.cs" />
+    <Compile Include="sim\ISimulationResults.cs" />
+    <Compile Include="signal\ITrajectory.cs" />
+    <Compile Include="signal\ITrajectoryBundle.cs" />
+    <Compile Include="signal\ITrajectoryBundleCollapser.cs" />
+    <Compile Include="signal\ITrajectoryDistanceMeasure.cs" />
+    <Compile Include="signal\ITrajectoryFactory.cs" />
+    <Compile Include="signal\ITrajectoryTransformer.cs" />
+    <Compile Include="moadb\IDistributionSpaceMapping.cs" />
+    <Compile Include="orderbook\IOrderOwner.cs" />
+    <Compile Include="sim\ISimulationResultsBundle.cs" />
+    <Compile Include="blau\IBlauSpaceLattice.cs" />
+    <Compile Include="agent\IPopulationFactory.cs" />
+    <Compile Include="des\ISimEntity.cs" />
+    <Compile Include="des\ISimEvent.cs" />
+    <Compile Include="des\ISimEventHandle.cs" />
+    <Compile Include="des\IUniqueDouble.cs" />
+    <Compile Include="dist\RandomGenerator.cs" />
+    <Compile Include="dist\IRandomGenerator.cs" />
+    <Compile Include="dist\SingletonRandomGenerator.cs" />
+    <Compile Include="sim\ISimulationStart.cs" />
+    <Compile Include="sim\ISimulationEnd.cs" />
+    <Compile Include="orderbook\IOrderbookEvent_FillOrder.cs" />
+    <Compile Include="orderbook\IOrderbookEvent_AddOrder.cs" />
+    <Compile Include="orderbook\IOrderbookEvent_CancelOrder.cs" />
+    <Compile Include="metrics\IAgentEvaluation.cs" />
+    <Compile Include="metrics\IAgentEvaluationBundle.cs" />
+    <Compile Include="metrics\IAgentEvaluationFactory.cs" />
+    <Compile Include="metrics\IAgentEvaluationBundleCollapser.cs" />
+    <Compile Include="metrics\IBlauPointComparer.cs" />
+    <Compile Include="metrics\IBlauSpaceMultiEvaluation.cs" />
+    <Compile Include="metrics\IBlauSpaceEvaluation.cs" />
+    <Compile Include="metrics\IBlauSpaceLatticedFunction.cs" />
+    <Compile Include="metrics\IScore.cs" />
+    <Compile Include="agent\IAgent_NonParticipant.cs" />
+    <Compile Include="agent\IAgentCreationSpecializedParameters.cs" />
+    <Compile Include="experiment\IExperiment.cs" />
+    <Compile Include="presentation\IPresentable.cs" />
+    <Compile Include="presentation\IPresenter.cs" />
+    <Compile Include="config\IAgentConfig.cs" />
+    <Compile Include="config\IAgentEvaluationConfig.cs" />
+    <Compile Include="config\IAgentEvaluationFactorySetConfig.cs" />
+    <Compile Include="config\IBlauAxisConfig.cs" />
+    <Compile Include="config\IBlauSpaceConfig.cs" />
+    <Compile Include="config\IExperimentConfig.cs" />
+    <Compile Include="config\ITrajectoryFactoryConfig.cs" />
+    <Compile Include="config\ITrajectoryFactorySetConfig.cs" />
+    <Compile Include="config\IDistributionConfig.cs" />
+    <Compile Include="config\IGaussianDistributionConfig.cs" />
+    <Compile Include="config\IBlauPointConfig.cs" />
+    <Compile Include="config\IBlauCoordConfig.cs" />
+    <Compile Include="config\ISpecificDistributionConfig.cs" />
+    <Compile Include="config\ISequentialDistributionConfig.cs" />
+    <Compile Include="signal\ItrajectoryFactory_Ignore.cs" />
+    <Compile Include="config\IBlauAxisDistributionConfig.cs" />
+    <Compile Include="dist\IDistributionSpaceIteratorSpecification.cs" />
+    <Compile Include="config\ITableGenerationConfig.cs" />
+    <Compile Include="signal\IPassiveTrajectoryFactory.cs" />
+    <Compile Include="signal\IActiveTrajectoryFactory.cs" />
+    <Compile Include="logger\Safety.cs" />
+    <Compile Include="experiment\IMetaExperiment.cs" />
+    <Compile Include="orderbook\IOrderbookPriceEngine.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="agent\" />
+    <Folder Include="blau\" />
+    <Folder Include="dist\" />
+    <Folder Include="orderbook\" />
+    <Folder Include="signal\" />
+    <Folder Include="sim\" />
+    <Folder Include="moadb\" />
+    <Folder Include="des\" />
+    <Folder Include="metrics\" />
+    <Folder Include="experiment\" />
+    <Folder Include="logger\" />
+  </ItemGroup>
+</Project>

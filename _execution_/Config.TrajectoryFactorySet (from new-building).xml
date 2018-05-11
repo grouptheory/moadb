@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrajectoryFactorySetConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Trajectories>
+    <TrajectoryFactoryConfig>
+      <Name>TrajectoryFactory_Price</Name>
+      <MinGranularity>1</MinGranularity>
+      <HistoryCoefficient>0</HistoryCoefficient>
+    </TrajectoryFactoryConfig>
+    <TrajectoryFactoryConfig>
+      <Name>TrajectoryFactory_Spread</Name>
+      <MinGranularity>1</MinGranularity>
+      <HistoryCoefficient>0</HistoryCoefficient>
+    </TrajectoryFactoryConfig>
+    <TrajectoryFactoryConfig>
+      <Name>TrajectoryFactory_TotalOrders</Name>
+      <MinGranularity>1</MinGranularity>
+      <HistoryCoefficient>0</HistoryCoefficient>
+    </TrajectoryFactoryConfig>
+    <TrajectoryFactoryConfig>
+      <Name>TrajectoryFactory_TotalTrades</Name>
+      <MinGranularity>1</MinGranularity>
+      <HistoryCoefficient>0</HistoryCoefficient>
+    </TrajectoryFactoryConfig>
+  </Trajectories>
+</TrajectoryFactorySetConfig>

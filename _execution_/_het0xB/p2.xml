@@ -1,0 +1,439 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/clr/" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+  <SOAP-ENV:Body>
+    <a1:Mixture id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_component href="#ref-2" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-3" />
+      <AbstractDistribution_x002B__params>16</AbstractDistribution_x002B__params>
+    </a1:Mixture>
+    <a2:_x0033_8113_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-2" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[dist.MixtureComponent, dist, Version=1.0.4918">
+      <_items href="#ref-4" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0033_8113_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-3" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-5">BlauSpace[Dim:3]: AgentType(-10,10), GainCutoff(0,10), LossCutoff(0,10)</_hashedName>
+      <_dimension>3</_dimension>
+      <_indexedAxes href="#ref-6" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-4" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:MixtureComponent[4]">
+      <item href="#ref-7" />
+      <item href="#ref-8" />
+    </SOAP-ENC:Array>
+    <a4:Hashtable id="ref-6" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>6</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-9" />
+      <Values href="#ref-10" />
+      <equalityComparer xsi:null="1" />
+    </a4:Hashtable>
+    <a1:MixtureComponent id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Distribution href="#ref-11" />
+      <Weight>0.5</Weight>
+    </a1:MixtureComponent>
+    <a1:MixtureComponent id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Distribution href="#ref-12" />
+      <Weight>0.5</Weight>
+    </a1:MixtureComponent>
+    <SOAP-ENC:Array id="ref-9" SOAP-ENC:arrayType="xsd:anyType[3]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+      <item xsi:type="xsd:int">2</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-10" SOAP-ENC:arrayType="xsd:anyType[3]">
+      <item href="#ref-13" />
+      <item href="#ref-14" />
+      <item href="#ref-15" />
+    </SOAP-ENC:Array>
+    <a1:Product id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-16" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-3" />
+      <AbstractDistribution_x002B__params>7</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a1:Product id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-17" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-3" />
+      <AbstractDistribution_x002B__params>7</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a3:BlauSpaceAxis id="ref-13" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-18">AgentType</_name>
+      <_minimumValue>-10</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-14" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-19">GainCutoff</_name>
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-15" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name id="ref-20">LossCutoff</_name>
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-16" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-21" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-17" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-22" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-21" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a6:IDistribution[4]">
+      <item href="#ref-23" />
+      <item href="#ref-24" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-22" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a6:IDistribution[4]">
+      <item href="#ref-25" />
+      <item href="#ref-26" />
+    </SOAP-ENC:Array>
+    <a1:Distribution_Pointed id="ref-23" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>1</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-27" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-28" />
+      <AbstractDistribution_x002B__space href="#ref-29" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Mixture id="ref-24" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_component href="#ref-30" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-31" />
+      <AbstractDistribution_x002B__params>6</AbstractDistribution_x002B__params>
+    </a1:Mixture>
+    <a1:Distribution_Pointed id="ref-25" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>-1</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-32" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-33" />
+      <AbstractDistribution_x002B__space href="#ref-29" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Mixture id="ref-26" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_component href="#ref-34" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-31" />
+      <AbstractDistribution_x002B__params>6</AbstractDistribution_x002B__params>
+    </a1:Mixture>
+    <SOAP-ENC:Array id="ref-27" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>-10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-28" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-29" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-35">BlauSpace[Dim:1]: AgentType(-10,10)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-36" />
+    </a3:BlauSpace>
+    <a2:_x0033_8113_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-30" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[dist.MixtureComponent, dist, Version=1.0.4918">
+      <_items href="#ref-37" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0033_8113_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a3:BlauSpace id="ref-31" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-38">BlauSpace[Dim:2]: GainCutoff(0,10), LossCutoff(0,10)</_hashedName>
+      <_dimension>2</_dimension>
+      <_indexedAxes href="#ref-39" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-32" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>-10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-33" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a2:_x0033_8113_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-34" xmlns:a2="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[dist.MixtureComponent, dist, Version=1.0.4918">
+      <_items href="#ref-40" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a2:_x0033_8113_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a4:Hashtable id="ref-36" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>3</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-41" />
+      <Values href="#ref-42" />
+      <equalityComparer xsi:null="1" />
+    </a4:Hashtable>
+    <SOAP-ENC:Array id="ref-37" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:MixtureComponent[4]">
+      <item href="#ref-43" />
+      <item href="#ref-44" />
+    </SOAP-ENC:Array>
+    <a4:Hashtable id="ref-39" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>8</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-45" />
+      <Values href="#ref-46" />
+      <equalityComparer xsi:null="1" />
+    </a4:Hashtable>
+    <SOAP-ENC:Array id="ref-40" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a1:MixtureComponent[4]">
+      <item href="#ref-47" />
+      <item href="#ref-48" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-41" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-42" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-49" />
+    </SOAP-ENC:Array>
+    <a1:MixtureComponent id="ref-43" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Distribution href="#ref-50" />
+      <Weight>0.40000000000000002</Weight>
+    </a1:MixtureComponent>
+    <a1:MixtureComponent id="ref-44" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Distribution href="#ref-51" />
+      <Weight>0.59999999999999998</Weight>
+    </a1:MixtureComponent>
+    <SOAP-ENC:Array id="ref-45" SOAP-ENC:arrayType="xsd:anyType[2]">
+      <item xsi:type="xsd:int">0</item>
+      <item xsi:type="xsd:int">1</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-46" SOAP-ENC:arrayType="xsd:anyType[2]">
+      <item href="#ref-52" />
+      <item href="#ref-53" />
+    </SOAP-ENC:Array>
+    <a1:MixtureComponent id="ref-47" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Distribution href="#ref-54" />
+      <Weight>0.59999999999999998</Weight>
+    </a1:MixtureComponent>
+    <a1:MixtureComponent id="ref-48" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <Distribution href="#ref-55" />
+      <Weight>0.40000000000000002</Weight>
+    </a1:MixtureComponent>
+    <a3:BlauSpaceAxis id="ref-49" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-18" />
+      <_minimumValue>-10</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a1:Product id="ref-50" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-56" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-31" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a1:Product id="ref-51" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-57" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-31" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a3:BlauSpaceAxis id="ref-52" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-19" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-53" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-20" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a1:Product id="ref-54" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-58" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-31" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a1:Product id="ref-55" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_factor href="#ref-59" />
+      <_completed>true</_completed>
+      <AbstractDistribution_x002B__space href="#ref-31" />
+      <AbstractDistribution_x002B__params>2</AbstractDistribution_x002B__params>
+    </a1:Product>
+    <a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-56" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-60" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-57" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-61" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-58" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-62" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_ id="ref-59" xmlns:a5="http://schemas.microsoft.com/clr/ns/System.Collections.Generic.List`1[[core.IDistribution, core, Version=1.0.4918">
+      <_items href="#ref-63" />
+      <_size>2</_size>
+      <_version>2</_version>
+    </a5:_x0033_8110_x002C__x0020_Culture_x003D_neutral_x002C__x0020_PublicKeyToken_x003D_null_x005D__x005D_>
+    <SOAP-ENC:Array id="ref-60" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a6:IDistribution[4]">
+      <item href="#ref-64" />
+      <item href="#ref-65" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-61" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a6:IDistribution[4]">
+      <item href="#ref-66" />
+      <item href="#ref-67" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-62" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a6:IDistribution[4]">
+      <item href="#ref-68" />
+      <item href="#ref-69" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-63" xmlns:a6="http://schemas.microsoft.com/clr/nsassem/core/core%2C%20Version%3D1.0.4918.38110%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull" SOAP-ENC:arrayType="a6:IDistribution[4]">
+      <item href="#ref-70" />
+      <item href="#ref-71" />
+    </SOAP-ENC:Array>
+    <a1:Distribution_Pointed id="ref-64" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.25</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-72" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-73" />
+      <AbstractDistribution_x002B__space href="#ref-74" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-65" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.25</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-75" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-76" />
+      <AbstractDistribution_x002B__space href="#ref-77" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-66" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.01</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-78" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-79" />
+      <AbstractDistribution_x002B__space href="#ref-74" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-67" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.01</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-80" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-81" />
+      <AbstractDistribution_x002B__space href="#ref-77" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-68" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.25</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-82" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-83" />
+      <AbstractDistribution_x002B__space href="#ref-74" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-69" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.25</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-84" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-85" />
+      <AbstractDistribution_x002B__space href="#ref-77" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-70" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.01</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-86" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-87" />
+      <AbstractDistribution_x002B__space href="#ref-74" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <a1:Distribution_Pointed id="ref-71" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/dist/dist%2C%20Version%3D1.0.4918.38113%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_value>0.01</_value>
+      <AbstractAtomicDistribution_x002B__paramMin href="#ref-88" />
+      <AbstractAtomicDistribution_x002B__paramMax href="#ref-89" />
+      <AbstractDistribution_x002B__space href="#ref-77" />
+      <AbstractDistribution_x002B__params>1</AbstractDistribution_x002B__params>
+    </a1:Distribution_Pointed>
+    <SOAP-ENC:Array id="ref-72" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-73" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-74" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-90">BlauSpace[Dim:1]: GainCutoff(0,10)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-91" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-75" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-76" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a3:BlauSpace id="ref-77" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_hashedName id="ref-92">BlauSpace[Dim:1]: LossCutoff(0,10)</_hashedName>
+      <_dimension>1</_dimension>
+      <_indexedAxes href="#ref-93" />
+    </a3:BlauSpace>
+    <SOAP-ENC:Array id="ref-78" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-79" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-80" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-81" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-82" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-83" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-84" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-85" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-86" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-87" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-88" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-89" SOAP-ENC:arrayType="xsd:double[1]">
+      <item>10</item>
+    </SOAP-ENC:Array>
+    <a4:Hashtable id="ref-91" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>5</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-94" />
+      <Values href="#ref-95" />
+      <equalityComparer xsi:null="1" />
+    </a4:Hashtable>
+    <a4:Hashtable id="ref-93" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Collections">
+      <LoadFactor>0.75</LoadFactor>
+      <Version>5</Version>
+      <Comparer xsi:null="1" />
+      <HashSize>11</HashSize>
+      <Keys href="#ref-96" />
+      <Values href="#ref-97" />
+      <equalityComparer xsi:null="1" />
+    </a4:Hashtable>
+    <SOAP-ENC:Array id="ref-94" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-95" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-98" />
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-96" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item xsi:type="xsd:int">0</item>
+    </SOAP-ENC:Array>
+    <SOAP-ENC:Array id="ref-97" SOAP-ENC:arrayType="xsd:anyType[1]">
+      <item href="#ref-99" />
+    </SOAP-ENC:Array>
+    <a3:BlauSpaceAxis id="ref-98" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-19" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+    <a3:BlauSpaceAxis id="ref-99" xmlns:a3="http://schemas.microsoft.com/clr/nsassem/blau/blau%2C%20Version%3D1.0.4918.38112%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+      <_name href="#ref-20" />
+      <_minimumValue>0</_minimumValue>
+      <_maximumValue>10</_maximumValue>
+    </a3:BlauSpaceAxis>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

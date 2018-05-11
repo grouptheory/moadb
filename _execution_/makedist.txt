@@ -1,0 +1,78 @@
+
+./bin/utils.exe --gaussian -mean=1   -std=1.0   -min=0     -max=2   -variable='riskiness'      -outfile=riskiness.xml
+./bin/utils.exe --gaussian -mean=0.001   -std=0.005 -min=-1    -max=1   -variable='optimism'       -outfile=optimism.xml
+./bin/utils.exe --gaussian -mean=0.1   -std=1.0   -min=-1    -max=1   -variable='trendiness'     -outfile=trendiness.xml
+./bin/utils.exe --gaussian -mean=0.2 -std=0.15  -min=0.01  -max=1   -variable='patience'       -outfile=patience.xml
+./bin/utils.exe --gaussian -mean=0.5 -std=0.15  -min=0     -max=1   -variable='aggressiveness' -outfile=aggressiveness.xml
+./bin/utils.exe --gaussian -mean=5   -std=60    -min=2     -max=105 -variable='clock'          -outfile=clock.xml
+
+./bin/utils.exe --gaussian -mean=1   -std=0.001  -min=0     -max=2   -variable='riskiness'      -outfile=riskiness.xml
+./bin/utils.exe --gaussian -mean=0   -std=0.001  -min=-1    -max=1   -variable='optimism'       -outfile=optimism.xml
+./bin/utils.exe --gaussian -mean=0   -std=0.001  -min=-1    -max=1   -variable='trendiness'     -outfile=trendiness.xml
+./bin/utils.exe --gaussian -mean=0.2 -std=0.001  -min=0.01  -max=1   -variable='patience'       -outfile=patience.xml
+./bin/utils.exe --gaussian -mean=0.5 -std=0.001  -min=0     -max=1   -variable='aggressiveness' -outfile=aggressiveness.xml
+./bin/utils.exe --gaussian -mean=5   -std=0.001  -min=2     -max=105 -variable='clock'          -outfile=clock.xml
+
+./bin/utils.exe --product -file1=riskiness.xml -file2=aggressiveness.xml -outfile=p2.xml
+./bin/utils.exe --product -file1=p2.xml -file2=trendiness.xml -outfile=p3.xml
+./bin/utils.exe --product -file1=p3.xml -file2=patience.xml -outfile=p4.xml
+./bin/utils.exe --product -file1=p4.xml -file2=optimism.xml -outfile=p5.xml
+./bin/utils.exe --product -file1=p5.xml -file2=clock.xml -outfile=p6.xml
+
+cp p6.xml 1x0_TemplateDistribution.xml 
+cp 1x0_TemplateDistribution.xml TemplateDistribution.xml
+./bin/utils.exe --print -file1=TemplateDistribution.xml
+
+./bin/utils.exe --pointed -value=1   -min=0     -max=2   -variable='riskiness'      -outfile=riskiness.xml
+./bin/utils.exe --pointed -value=0.01   -min=-1    -max=1   -variable='optimism'       -outfile=optimism.xml
+./bin/utils.exe --pointed -value=-0.9 -min=-1    -max=1   -variable='trendiness'     -outfile=trendiness.xml
+./bin/utils.exe --pointed -value=0.2 -min=0.01  -max=1   -variable='patience'       -outfile=patience.xml
+./bin/utils.exe --pointed -value=0.5 -min=0     -max=1   -variable='aggressiveness' -outfile=aggressiveness.xml
+./bin/utils.exe --gaussian -mean=5   -std=0.01  -min=2     -max=105 -variable='clock'          -outfile=clock.xml
+
+./bin/utils.exe --product -file1=riskiness.xml -file2=aggressiveness.xml -outfile=p2.xml
+./bin/utils.exe --product -file1=p2.xml -file2=trendiness.xml -outfile=p3.xml
+./bin/utils.exe --product -file1=p3.xml -file2=patience.xml -outfile=p4.xml
+./bin/utils.exe --product -file1=p4.xml -file2=optimism.xml -outfile=p5.xml
+./bin/utils.exe --product -file1=p5.xml -file2=clock.xml -outfile=p6.xml
+
+cp p6.xml x1x0_TemplateDistribution.xml 
+cp x1x0_TemplateDistribution.xml TemplateDistribution.xml
+./bin/utils.exe --print -file1=TemplateDistribution.xml
+
+
+
+cp 0x1_Config.TableGeneration.xml Config.TableGeneration.xml
+cp 0x1_DistributionIteratorSpec.xml DistributionIteratorSpec.xml
+cp 0x1_TemplateDistribution.xml TemplateDistribution.xml
+
+cp 1x0_Config.TableGeneration.xml Config.TableGeneration.xml
+cp 1x0_DistributionIteratorSpec.xml DistributionIteratorSpec.xml
+cp 1x0_TemplateDistribution.xml TemplateDistribution.xml
+
+cp p2_Config.TableGeneration.xml Config.TableGeneration.xml
+cp p2_DistributionIteratorSpec.xml DistributionIteratorSpec.xml
+cp p2_TemplateDistribution.xml TemplateDistribution.xml
+
+
+
+
+cp p3_Config.TableGeneration.xml Config.TableGeneration.xml
+cp p3_DistributionIteratorSpec.xml DistributionIteratorSpec.xml
+cp p3_TemplateDistribution.xml TemplateDistribution.xml
+
+1: riskiness-Std
+2: optimism-Mean
+3: optimism-Std
+2: optimism-Mean
+4: trendiness-Mean
+6: patience-Mean
+7: patience-Std
+8: aggressiveness-Mean
+9: aggressiveness-Std
+10: clock-Mean
+11: clock-Std
+
+cp p3.xml p3_TemplateDistribution.xml
+cp 0x1_Config.TableGeneration.xml p3_Config.TableGeneration.xml
+cp 1x0_DistributionIteratorSpec.xml p3_DistributionIteratorSpec.xml
